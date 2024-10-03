@@ -4946,3 +4946,51 @@
 2024-10-03 17:01:08,287 - ERROR - Error removing user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b from schedule ID 78067b81-7c46-4b94-a447-c6c03361c43c: 404, {"message":"No handler found","took":0.0,"requestId":"2f2ffa73-7cc0-4060-ac08-fedd271446fc"}
 2024-10-03 17:01:08,287 - INFO - Changing role for user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b to Stakeholder.
 2024-10-03 17:01:08,907 - ERROR - Error changing role for user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b: 428, {"message":"User cannot be modified. Please remove it from schedules: [CDP-DR Tier1]","took":0.333,"requestId":"f22821f4-325f-497c-a15a-79834ab3c69a"}
+2024-10-03 18:44:52,957 - INFO - Processing user santhosh.r@nutanix.com.
+2024-10-03 18:44:52,957 - INFO - Fetching user ID for santhosh.r@nutanix.com.
+2024-10-03 18:44:53,373 - INFO - User ID for santhosh.r@nutanix.com is 5714bdec-5684-43ed-a7b3-b205fb0c507b.
+2024-10-03 18:44:53,374 - INFO - Fetching teams for user santhosh.r@nutanix.com.
+2024-10-03 18:44:53,696 - INFO - User santhosh.r@nutanix.com does not belong to any teams.
+2024-10-03 18:44:53,696 - INFO - No teams found for user santhosh.r@nutanix.com. Skipping deletion from teams.
+2024-10-03 18:44:53,696 - INFO - Fetching schedules for user santhosh.r@nutanix.com.
+2024-10-03 18:44:55,690 - INFO - User santhosh.r@nutanix.com belongs to the following schedules: CDP-DR Tier1
+2024-10-03 18:44:55,690 - INFO - Removing user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b from schedule ID 78067b81-7c46-4b94-a447-c6c03361c43c.
+2024-10-03 18:44:55,993 - ERROR - Error removing user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b from schedule ID 78067b81-7c46-4b94-a447-c6c03361c43c: 404, {"message":"No handler found","took":0.001,"requestId":"6547d336-d48d-4719-af06-16d402fb5aec"}
+2024-10-03 18:44:55,993 - INFO - Changing role for user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b to Stakeholder.
+2024-10-03 18:44:57,890 - ERROR - Error changing role for user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b: 428, {"message":"User cannot be modified. Please remove it from schedules: [CDP-DR Tier1]","took":1.596,"requestId":"e92cc0e0-1ccb-46cb-b31d-a1b3525652ff"}
+2024-10-03 18:48:08,352 - INFO - Processing user santhosh.r@nutanix.com.
+2024-10-03 18:48:08,353 - INFO - Fetching user ID for santhosh.r@nutanix.com.
+2024-10-03 18:48:08,695 - INFO - User ID for santhosh.r@nutanix.com is 5714bdec-5684-43ed-a7b3-b205fb0c507b.
+2024-10-03 18:48:08,696 - INFO - Fetching teams for user santhosh.r@nutanix.com.
+2024-10-03 18:48:09,018 - INFO - User santhosh.r@nutanix.com does not belong to any teams.
+2024-10-03 18:48:09,019 - INFO - No teams found for user santhosh.r@nutanix.com. Skipping deletion from teams.
+2024-10-03 18:48:09,019 - INFO - Fetching schedules for user santhosh.r@nutanix.com.
+2024-10-03 18:48:09,665 - INFO - User santhosh.r@nutanix.com belongs to the following schedules: CDP-DR Tier1
+2024-10-03 18:48:09,665 - INFO - Removing user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b from schedule ID 78067b81-7c46-4b94-a447-c6c03361c43c.
+2024-10-03 18:48:09,984 - ERROR - Error removing user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b from schedule ID 78067b81-7c46-4b94-a447-c6c03361c43c: 404, {"message":"No handler found","took":0.0,"requestId":"155aee80-59fb-4aba-a0b6-66c115db8e13"}
+2024-10-03 18:48:09,985 - INFO - Changing role for user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b to Stakeholder.
+2024-10-03 18:48:10,585 - ERROR - Error changing role for user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b: 428, {"message":"User cannot be modified. Please remove it from schedules: [CDP-DR Tier1]","took":0.275,"requestId":"b128d012-d9e5-4b48-88bc-c87f6917d8cf"}
+2024-10-03 18:48:27,879 - INFO - Processing user santhosh.r@nutanix.com.
+2024-10-03 18:48:27,879 - INFO - Fetching user ID for santhosh.r@nutanix.com.
+2024-10-03 18:48:28,314 - INFO - User ID for santhosh.r@nutanix.com is 5714bdec-5684-43ed-a7b3-b205fb0c507b.
+2024-10-03 18:48:28,314 - INFO - Fetching teams for user santhosh.r@nutanix.com.
+2024-10-03 18:48:28,626 - INFO - User santhosh.r@nutanix.com does not belong to any teams.
+2024-10-03 18:48:28,627 - INFO - No teams found for user santhosh.r@nutanix.com. Skipping deletion from teams.
+2024-10-03 18:48:28,627 - INFO - Fetching schedules for user santhosh.r@nutanix.com.
+2024-10-03 18:48:29,219 - INFO - User santhosh.r@nutanix.com belongs to the following schedules: CDP-DR Tier1
+2024-10-03 18:48:29,220 - INFO - Removing user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b from schedule ID 78067b81-7c46-4b94-a447-c6c03361c43c.
+2024-10-03 18:48:29,522 - ERROR - Error removing user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b from schedule ID 78067b81-7c46-4b94-a447-c6c03361c43c: 404, {"message":"No handler found","took":0.001,"requestId":"7fe5b4e3-eb3f-40fc-bd6a-f6ae6db02662"}
+2024-10-03 18:48:29,523 - INFO - Changing role for user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b to Stakeholder.
+2024-10-03 18:48:30,191 - ERROR - Error changing role for user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b: 428, {"message":"User cannot be modified. Please remove it from schedules: [CDP-DR Tier1]","took":0.353,"requestId":"0d71039c-35c8-4148-a3ba-4237e77b3a36"}
+2024-10-03 18:49:08,127 - INFO - Processing user santhosh.r@nutanix.com.
+2024-10-03 18:49:08,127 - INFO - Fetching user ID for santhosh.r@nutanix.com.
+2024-10-03 18:49:08,469 - INFO - User ID for santhosh.r@nutanix.com is 5714bdec-5684-43ed-a7b3-b205fb0c507b.
+2024-10-03 18:49:08,470 - INFO - Fetching teams for user santhosh.r@nutanix.com.
+2024-10-03 18:49:08,834 - INFO - User santhosh.r@nutanix.com does not belong to any teams.
+2024-10-03 18:49:08,835 - INFO - No teams found for user santhosh.r@nutanix.com. Skipping deletion from teams.
+2024-10-03 18:49:08,835 - INFO - Fetching schedules for user santhosh.r@nutanix.com.
+2024-10-03 18:49:09,466 - INFO - User santhosh.r@nutanix.com belongs to the following schedules: CDP-DR Tier1
+2024-10-03 18:49:09,466 - INFO - Removing user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b from schedule ID 78067b81-7c46-4b94-a447-c6c03361c43c.
+2024-10-03 18:49:09,766 - ERROR - Error removing user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b from schedule ID 78067b81-7c46-4b94-a447-c6c03361c43c: 404, {"message":"No handler found","took":0.001,"requestId":"c0120230-5d27-4cb1-9860-8a7c463d61ff"}
+2024-10-03 18:49:09,766 - INFO - Changing role for user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b to Stakeholder.
+2024-10-03 18:49:10,408 - ERROR - Error changing role for user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b: 428, {"message":"User cannot be modified. Please remove it from schedules: [CDP-DR Tier1]","took":0.34,"requestId":"8d3a0946-2801-443b-907f-270796bdd29b"}

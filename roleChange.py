@@ -25,16 +25,20 @@ def get_user_id(username):
     response = requests.get(url, headers=HEADERS)
 
     if response.status_code == 200:
-        data = response.json()
-        user_id = data.get('data', {}).get('id', None)
-
-        if user_id:
-            logging.info(f"User ID for {username} is {user_id}.")
-            print(f"User ID for {username} is {user_id}.")
-            return user_id
-        else:
-            logging.warning(f"User ID for {username} not found.")
-            print(f"User ID for {username} not found.")
+        try:
+            data = response.json()
+            user_id = data.get('data', {}).get('id', None)
+            if user_id:
+                logging.info(f"User ID for {username} is {user_id}.")
+                print(f"User ID for {username} is {user_id}.")
+                return user_id
+            else:
+                logging.warning(f"User ID for {username} not found.")
+                print(f"User ID for {username} not found.")
+                return None
+        except ValueError:
+            logging.error("Error parsing JSON response for user ID.")
+            print("Error parsing JSON response for user ID.")
             return None
     else:
         logging.error(f"Error fetching user ID for {username}: {response.status_code}, {response.text}")
@@ -49,23 +53,27 @@ def get_user_teams(user):
     response = requests.get(url, headers=HEADERS)
 
     if response.status_code == 200:
-        data = response.json()
-        teams = data.get('data', [])
-
-        if teams:
-            team_info = [{'name': team['name'], 'id': team['id']} for team in teams]
-            team_names = [team['name'] for team in team_info]
-            logging.info(f"User {user} belongs to the following teams: {', '.join(team_names)}")
-            print(f"User {user} belongs to the following teams: {', '.join(team_names)}")
-            return team_info
-        else:
-            logging.info(f"User {user} does not belong to any teams.")
-            print(f"User {user} does not belong to any teams.")
-            return []  # Return an empty list if no teams
+        try:
+            data = response.json()
+            teams = data.get('data', [])
+            if teams:
+                team_info = [{'name': team['name'], 'id': team['id']} for team in teams]
+                logging.info(
+                    f"User {user} belongs to the following teams: {', '.join([team['name'] for team in team_info])}")
+                print(f"User {user} belongs to the following teams: {', '.join([team['name'] for team in team_info])}")
+                return team_info
+            else:
+                logging.info(f"User {user} does not belong to any teams.")
+                print(f"User {user} does not belong to any teams.")
+                return []
+        except ValueError:
+            logging.error("Error parsing JSON response for teams.")
+            print("Error parsing JSON response for teams.")
+            return None
     else:
         logging.error(f"Error fetching teams for {user}: {response.status_code}, {response.text}")
         print(f"Error fetching teams for {user}: {response.status_code}, {response.text}")
-        return None  # Return None for easier checking later
+        return None
 
 
 def delete_user_from_team(user_id, team_id):
@@ -90,27 +98,31 @@ def get_user_schedules(user):
     response = requests.get(url, headers=HEADERS)
 
     if response.status_code == 200:
-        data = response.json()
-        schedules = data.get('data', [])
-
-        if schedules:
-            schedules_info = [{'name': schedule['name'], 'id': schedule['id']} for schedule in schedules]
-            schedule_names = [schedule['name'] for schedule in schedules_info]
-            logging.info(f"User {user} belongs to the following schedules: {', '.join(schedule_names)}")
-            print(f"User {user} belongs to the following schedules: {', '.join(schedule_names)}")
-            return schedules_info
-        else:
-            logging.info(f"User {user} does not belong to any schedules.")
-            print(f"User {user} does not belong to any schedules.")
-            return []  # Return an empty list if no teams
+        try:
+            data = response.json()
+            schedules = data.get('data', [])
+            if schedules:
+                schedule_info = [{'name': schedule['name'], 'id': schedule['id']} for schedule in schedules]
+                logging.info(
+                    f"User {user} belongs to the following schedules: {', '.join([schedule['name'] for schedule in schedule_info])}")
+                print(f"User {user} belongs to the following schedules: {', '.join([schedule['name'] for schedule in schedule_info])}")
+                return schedule_info
+            else:
+                logging.info(f"User {user} does not belong to any schedules.")
+                print(f"User {user} does not belong to any schedules.")
+                return []
+        except ValueError:
+            logging.error("Error parsing JSON response for schedules.")
+            print("Error parsing JSON response for schedules.")
+            return None
     else:
         logging.error(f"Error fetching schedules for {user}: {response.status_code}, {response.text}")
         print(f"Error fetching schedules for {user}: {response.status_code}, {response.text}")
-        return None  # Return None for easier checking later
+        return None
 
 
 def delete_user_from_schedule(user_id, schedule_id):
-    url = f"https://api.opsgenie.com/v2/schedule/{schedule_id}/members/{user_id}"
+    url = f"https://api.opsgenie.com/v2/schedule/{schedule_id}"
     logging.info(f"Removing user ID {user_id} from schedule ID {schedule_id}.")
     print(f"Removing user ID {user_id} from schedule ID {schedule_id}.")
     response = requests.delete(url, headers=HEADERS)
