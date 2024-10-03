@@ -3763,3 +3763,1186 @@
 2024-10-03 10:22:36,360 - INFO - Fetching data for schedule ID: 02893b07-26e6-4575-b6a0-196cc37a7f49...
 2024-10-03 10:22:37,010 - INFO - Data fetched for schedule ID: 02893b07-26e6-4575-b6a0-196cc37a7f49.
 2024-10-03 10:22:37,267 - INFO - Fetching data for schedule ID: 02bd147a-e7cf-4a24-9b52-8d9b077927d5...
+2024-10-03 11:55:08,588 - INFO - 
+
+2024-10-03 11:55:08,588 - INFO - Starting process to fetch all schedules and process users.
+2024-10-03 11:55:08,588 - INFO - Fetching all schedules from OpsGenie...
+2024-10-03 11:55:09,451 - INFO - Successfully fetched schedules.
+2024-10-03 11:55:09,457 - INFO - Fetching data for schedule ID: 02893b07-26e6-4575-b6a0-196cc37a7f49...
+2024-10-03 11:55:10,234 - INFO - Data fetched for schedule ID: 02893b07-26e6-4575-b6a0-196cc37a7f49.
+2024-10-03 11:55:10,493 - INFO - Fetching data for schedule ID: 02bd147a-e7cf-4a24-9b52-8d9b077927d5...
+2024-10-03 11:55:11,268 - INFO - Data fetched for schedule ID: 02bd147a-e7cf-4a24-9b52-8d9b077927d5.
+2024-10-03 11:55:11,529 - INFO - Fetching data for schedule ID: 02e295bb-41d1-42d3-80fe-b8c549d7bb2c...
+2024-10-03 11:55:12,035 - INFO - Data fetched for schedule ID: 02e295bb-41d1-42d3-80fe-b8c549d7bb2c.
+2024-10-03 11:55:12,036 - WARNING - No 'periods' found for rotation: PST in Schedule: Nutanix Central Tier2
+2024-10-03 11:55:12,036 - WARNING - No 'periods' found for rotation: IST in Schedule: Nutanix Central Tier2
+2024-10-03 11:55:12,291 - INFO - Fetching data for schedule ID: 036644a9-9a2a-4259-8fcf-c9e4950edcc8...
+2024-10-03 11:55:13,002 - INFO - Data fetched for schedule ID: 036644a9-9a2a-4259-8fcf-c9e4950edcc8.
+2024-10-03 11:55:13,261 - INFO - Fetching data for schedule ID: 03df5a30-bbf6-40cb-bc16-530477f5e93b...
+2024-10-03 11:55:14,057 - INFO - Data fetched for schedule ID: 03df5a30-bbf6-40cb-bc16-530477f5e93b.
+2024-10-03 11:55:14,317 - INFO - Fetching data for schedule ID: 05e8b606-b3bf-4087-8799-c275a34bbcac...
+2024-10-03 11:55:14,830 - INFO - Data fetched for schedule ID: 05e8b606-b3bf-4087-8799-c275a34bbcac.
+2024-10-03 11:55:15,084 - INFO - Fetching data for schedule ID: 076f8416-2f1b-4a00-b8ad-6cdccb1c350f...
+2024-10-03 11:55:15,614 - INFO - Data fetched for schedule ID: 076f8416-2f1b-4a00-b8ad-6cdccb1c350f.
+2024-10-03 11:55:15,869 - INFO - Fetching data for schedule ID: 0836bd12-599a-4e97-9e36-510849168eca...
+2024-10-03 11:55:16,438 - INFO - Data fetched for schedule ID: 0836bd12-599a-4e97-9e36-510849168eca.
+2024-10-03 11:55:16,695 - INFO - Fetching data for schedule ID: 091d1573-9a6d-4790-97b5-d26dd40f5452...
+2024-10-03 11:55:17,205 - INFO - Data fetched for schedule ID: 091d1573-9a6d-4790-97b5-d26dd40f5452.
+2024-10-03 11:55:17,206 - WARNING - No 'periods' found for rotation: Google_OpsGenie_Integration in Schedule: Federal_SRE_Script_test_2
+2024-10-03 11:55:17,457 - INFO - Fetching data for schedule ID: 0935eeee-c93d-496f-acf9-23d3f346c59e...
+2024-10-03 11:55:17,967 - INFO - Data fetched for schedule ID: 0935eeee-c93d-496f-acf9-23d3f346c59e.
+2024-10-03 11:55:17,967 - WARNING - No 'periods' found for rotation: Rot1 - US in Schedule: Support Tools_schedule_UT_alerts
+2024-10-03 11:55:17,967 - WARNING - No 'periods' found for rotation: Rota2 - India in Schedule: Support Tools_schedule_UT_alerts
+2024-10-03 11:55:18,222 - INFO - Fetching data for schedule ID: 09b18358-0333-4636-976a-cb90bcad948a...
+2024-10-03 11:55:18,750 - INFO - Data fetched for schedule ID: 09b18358-0333-4636-976a-cb90bcad948a.
+2024-10-03 11:55:19,006 - INFO - Fetching data for schedule ID: 09b4f163-0ae8-49f0-bc4a-25d441a772c6...
+2024-10-03 11:55:19,586 - INFO - Data fetched for schedule ID: 09b4f163-0ae8-49f0-bc4a-25d441a772c6.
+2024-10-03 11:55:19,587 - WARNING - No 'periods' found for rotation: Federal Tier 1 Rotation in Schedule: Federal Tier 1 Schedule
+2024-10-03 11:55:19,838 - INFO - Fetching data for schedule ID: 09e826ff-1e63-4c4b-b17b-d2afc4073832...
+2024-10-03 11:55:20,573 - INFO - Data fetched for schedule ID: 09e826ff-1e63-4c4b-b17b-d2afc4073832.
+2024-10-03 11:55:20,831 - INFO - Fetching data for schedule ID: 0bfd1493-89d4-455a-9146-fe38d2587ed8...
+2024-10-03 11:55:21,531 - INFO - Data fetched for schedule ID: 0bfd1493-89d4-455a-9146-fe38d2587ed8.
+2024-10-03 11:55:21,789 - INFO - Fetching data for schedule ID: 0c0850e4-199b-4a5e-99e2-fd3a93c4a30f...
+2024-10-03 11:55:22,298 - INFO - Data fetched for schedule ID: 0c0850e4-199b-4a5e-99e2-fd3a93c4a30f.
+2024-10-03 11:55:22,554 - INFO - Fetching data for schedule ID: 0cc1659e-c8cf-4a30-97fe-817af070088b...
+2024-10-03 11:55:23,212 - INFO - Data fetched for schedule ID: 0cc1659e-c8cf-4a30-97fe-817af070088b.
+2024-10-03 11:55:23,469 - INFO - Fetching data for schedule ID: 0d2231d9-b2b2-4238-b6d7-cc8474a0833c...
+2024-10-03 11:55:23,994 - INFO - Data fetched for schedule ID: 0d2231d9-b2b2-4238-b6d7-cc8474a0833c.
+2024-10-03 11:55:24,247 - INFO - Fetching data for schedule ID: 0e4e4712-8472-49c4-8da9-e5b5100582f3...
+2024-10-03 11:55:24,940 - INFO - Data fetched for schedule ID: 0e4e4712-8472-49c4-8da9-e5b5100582f3.
+2024-10-03 11:55:25,198 - INFO - Fetching data for schedule ID: 0ee7cdd5-75f0-4b39-aa08-8988c6a3fd30...
+2024-10-03 11:55:25,872 - INFO - Data fetched for schedule ID: 0ee7cdd5-75f0-4b39-aa08-8988c6a3fd30.
+2024-10-03 11:55:25,875 - WARNING - No 'periods' found for rotation: IST in Schedule: Nutanix Central Tier4
+2024-10-03 11:55:26,130 - INFO - Fetching data for schedule ID: 0f7ceb11-9f3d-40dc-972a-e9b3dea3cc42...
+2024-10-03 11:55:26,806 - INFO - Data fetched for schedule ID: 0f7ceb11-9f3d-40dc-972a-e9b3dea3cc42.
+2024-10-03 11:55:27,063 - INFO - Fetching data for schedule ID: 106a4086-207a-4121-a40a-82f057abfaff...
+2024-10-03 11:55:27,728 - INFO - Data fetched for schedule ID: 106a4086-207a-4121-a40a-82f057abfaff.
+2024-10-03 11:55:27,990 - INFO - Fetching data for schedule ID: 10d4b460-2cff-429f-ab8f-10953de1b4cc...
+2024-10-03 11:55:28,470 - INFO - Data fetched for schedule ID: 10d4b460-2cff-429f-ab8f-10953de1b4cc.
+2024-10-03 11:55:28,724 - INFO - Fetching data for schedule ID: 11b2f5a1-554c-4385-a214-596db3a69943...
+2024-10-03 11:55:29,241 - INFO - Data fetched for schedule ID: 11b2f5a1-554c-4385-a214-596db3a69943.
+2024-10-03 11:55:29,494 - INFO - Fetching data for schedule ID: 11da89e4-fd13-4a7c-a173-b8218d5d80fc...
+2024-10-03 11:55:30,151 - INFO - Data fetched for schedule ID: 11da89e4-fd13-4a7c-a173-b8218d5d80fc.
+2024-10-03 11:55:30,406 - INFO - Fetching data for schedule ID: 122a4529-65a2-4c33-bbc5-e4c98f328841...
+2024-10-03 11:55:31,118 - INFO - Data fetched for schedule ID: 122a4529-65a2-4c33-bbc5-e4c98f328841.
+2024-10-03 11:55:31,377 - INFO - Fetching data for schedule ID: 144b3b2f-e705-4e59-a6a2-224807b29ddc...
+2024-10-03 11:55:31,955 - INFO - Data fetched for schedule ID: 144b3b2f-e705-4e59-a6a2-224807b29ddc.
+2024-10-03 11:55:32,211 - INFO - Fetching data for schedule ID: 167a15c9-4ad3-4515-9f54-aa893d07f772...
+2024-10-03 11:55:32,732 - INFO - Data fetched for schedule ID: 167a15c9-4ad3-4515-9f54-aa893d07f772.
+2024-10-03 11:55:32,986 - INFO - Fetching data for schedule ID: 16998011-9cbf-422a-8a11-e8dfe362882c...
+2024-10-03 11:55:33,524 - INFO - Data fetched for schedule ID: 16998011-9cbf-422a-8a11-e8dfe362882c.
+2024-10-03 11:55:33,780 - INFO - Fetching data for schedule ID: 16f48136-6481-4342-9f67-d33a51d04a16...
+2024-10-03 11:55:34,519 - INFO - Data fetched for schedule ID: 16f48136-6481-4342-9f67-d33a51d04a16.
+2024-10-03 11:55:34,773 - INFO - Fetching data for schedule ID: 18669712-d85c-4405-9cf5-1a6e868c568d...
+2024-10-03 11:55:35,472 - INFO - Data fetched for schedule ID: 18669712-d85c-4405-9cf5-1a6e868c568d.
+2024-10-03 11:55:35,731 - INFO - Fetching data for schedule ID: 18dab746-93a9-42d5-80e5-4728c398f3ec...
+2024-10-03 11:55:36,264 - INFO - Data fetched for schedule ID: 18dab746-93a9-42d5-80e5-4728c398f3ec.
+2024-10-03 11:55:36,266 - WARNING - No 'periods' found for rotation: Rota1 in Schedule: SaaS Qtr End Support Netsuite IN
+2024-10-03 11:55:36,266 - WARNING - No 'periods' found for rotation: Rota2 in Schedule: SaaS Qtr End Support Netsuite IN
+2024-10-03 11:55:36,266 - WARNING - No 'periods' found for rotation: Rota3 in Schedule: SaaS Qtr End Support Netsuite IN
+2024-10-03 11:55:36,266 - WARNING - No 'periods' found for rotation: Rota4 in Schedule: SaaS Qtr End Support Netsuite IN
+2024-10-03 11:55:36,266 - WARNING - No 'periods' found for rotation: Rota5 in Schedule: SaaS Qtr End Support Netsuite IN
+2024-10-03 11:55:36,266 - WARNING - No 'periods' found for rotation: Rota6 in Schedule: SaaS Qtr End Support Netsuite IN
+2024-10-03 11:55:36,266 - WARNING - No 'periods' found for rotation: Rota7 in Schedule: SaaS Qtr End Support Netsuite IN
+2024-10-03 11:55:36,266 - WARNING - No 'periods' found for rotation: Rota8 in Schedule: SaaS Qtr End Support Netsuite IN
+2024-10-03 11:55:36,266 - WARNING - No 'periods' found for rotation: Rota9 in Schedule: SaaS Qtr End Support Netsuite IN
+2024-10-03 11:55:36,266 - WARNING - No 'periods' found for rotation: Rota10 in Schedule: SaaS Qtr End Support Netsuite IN
+2024-10-03 11:55:36,266 - WARNING - No 'periods' found for rotation: Rota11 in Schedule: SaaS Qtr End Support Netsuite IN
+2024-10-03 11:55:36,266 - WARNING - No 'periods' found for rotation: Rota12 in Schedule: SaaS Qtr End Support Netsuite IN
+2024-10-03 11:55:36,266 - WARNING - No 'periods' found for rotation: Rota13 in Schedule: SaaS Qtr End Support Netsuite IN
+2024-10-03 11:55:36,266 - WARNING - No 'periods' found for rotation: Rota14 in Schedule: SaaS Qtr End Support Netsuite IN
+2024-10-03 11:55:36,266 - WARNING - No 'periods' found for rotation: Rota15 in Schedule: SaaS Qtr End Support Netsuite IN
+2024-10-03 11:55:36,266 - WARNING - No 'periods' found for rotation: Rota16 in Schedule: SaaS Qtr End Support Netsuite IN
+2024-10-03 11:55:36,266 - WARNING - No 'periods' found for rotation: Rota17 in Schedule: SaaS Qtr End Support Netsuite IN
+2024-10-03 11:55:36,266 - WARNING - No 'periods' found for rotation: Rota18 in Schedule: SaaS Qtr End Support Netsuite IN
+2024-10-03 11:55:36,266 - WARNING - No 'periods' found for rotation: Rota19 in Schedule: SaaS Qtr End Support Netsuite IN
+2024-10-03 11:55:36,267 - WARNING - No 'periods' found for rotation: Rota20 in Schedule: SaaS Qtr End Support Netsuite IN
+2024-10-03 11:55:36,267 - WARNING - No 'periods' found for rotation: Rota21 in Schedule: SaaS Qtr End Support Netsuite IN
+2024-10-03 11:55:36,267 - WARNING - No 'periods' found for rotation: Rota22 in Schedule: SaaS Qtr End Support Netsuite IN
+2024-10-03 11:55:36,267 - WARNING - No 'periods' found for rotation: Rota23 in Schedule: SaaS Qtr End Support Netsuite IN
+2024-10-03 11:55:36,267 - WARNING - No 'periods' found for rotation: Rota24 in Schedule: SaaS Qtr End Support Netsuite IN
+2024-10-03 11:55:36,267 - WARNING - No 'periods' found for rotation: Rota25 in Schedule: SaaS Qtr End Support Netsuite IN
+2024-10-03 11:55:36,267 - WARNING - No 'periods' found for rotation: Rota26 in Schedule: SaaS Qtr End Support Netsuite IN
+2024-10-03 11:55:36,267 - WARNING - No 'periods' found for rotation: Rota27 in Schedule: SaaS Qtr End Support Netsuite IN
+2024-10-03 11:55:36,267 - WARNING - No 'periods' found for rotation: Rota28 in Schedule: SaaS Qtr End Support Netsuite IN
+2024-10-03 11:55:36,267 - WARNING - No 'periods' found for rotation: Rota29 in Schedule: SaaS Qtr End Support Netsuite IN
+2024-10-03 11:55:36,267 - WARNING - No 'periods' found for rotation: Rota30 in Schedule: SaaS Qtr End Support Netsuite IN
+2024-10-03 11:55:36,267 - WARNING - No 'periods' found for rotation: Rota31 in Schedule: SaaS Qtr End Support Netsuite IN
+2024-10-03 11:55:36,267 - WARNING - No 'periods' found for rotation: Rota32 in Schedule: SaaS Qtr End Support Netsuite IN
+2024-10-03 11:55:36,267 - WARNING - No 'periods' found for rotation: Rota33 in Schedule: SaaS Qtr End Support Netsuite IN
+2024-10-03 11:55:36,267 - WARNING - No 'periods' found for rotation: Rota34 in Schedule: SaaS Qtr End Support Netsuite IN
+2024-10-03 11:55:36,267 - WARNING - No 'periods' found for rotation: Rota35 in Schedule: SaaS Qtr End Support Netsuite IN
+2024-10-03 11:55:36,267 - WARNING - No 'periods' found for rotation: Rota36 in Schedule: SaaS Qtr End Support Netsuite IN
+2024-10-03 11:55:36,267 - WARNING - No 'periods' found for rotation: Rota37 in Schedule: SaaS Qtr End Support Netsuite IN
+2024-10-03 11:55:36,267 - WARNING - No 'periods' found for rotation: Rota38 in Schedule: SaaS Qtr End Support Netsuite IN
+2024-10-03 11:55:36,267 - WARNING - No 'periods' found for rotation: Rota39 in Schedule: SaaS Qtr End Support Netsuite IN
+2024-10-03 11:55:36,267 - WARNING - No 'periods' found for rotation: Rota40 in Schedule: SaaS Qtr End Support Netsuite IN
+2024-10-03 11:55:36,267 - WARNING - No 'periods' found for rotation: Rota41 in Schedule: SaaS Qtr End Support Netsuite IN
+2024-10-03 11:55:36,267 - WARNING - No 'periods' found for rotation: Rota42 in Schedule: SaaS Qtr End Support Netsuite IN
+2024-10-03 11:55:36,268 - WARNING - No 'periods' found for rotation: Rota43 in Schedule: SaaS Qtr End Support Netsuite IN
+2024-10-03 11:55:36,268 - WARNING - No 'periods' found for rotation: Rota44 in Schedule: SaaS Qtr End Support Netsuite IN
+2024-10-03 11:55:36,268 - WARNING - No 'periods' found for rotation: Rota45 in Schedule: SaaS Qtr End Support Netsuite IN
+2024-10-03 11:55:36,521 - INFO - Fetching data for schedule ID: 1a580b6b-2b18-4619-84a6-5c8c69204c7a...
+2024-10-03 11:55:37,103 - INFO - Data fetched for schedule ID: 1a580b6b-2b18-4619-84a6-5c8c69204c7a.
+2024-10-03 11:55:37,359 - INFO - Fetching data for schedule ID: 1aeeb345-c80d-453b-8786-67f57990fa89...
+2024-10-03 11:55:38,022 - INFO - Data fetched for schedule ID: 1aeeb345-c80d-453b-8786-67f57990fa89.
+2024-10-03 11:55:38,282 - INFO - Fetching data for schedule ID: 1bcffee4-9934-4bd1-b437-52285833c726...
+2024-10-03 11:55:38,787 - INFO - Data fetched for schedule ID: 1bcffee4-9934-4bd1-b437-52285833c726.
+2024-10-03 11:55:39,041 - INFO - Fetching data for schedule ID: 1ca6d52d-6671-46df-ab89-4e652c7f6693...
+2024-10-03 11:55:39,564 - INFO - Data fetched for schedule ID: 1ca6d52d-6671-46df-ab89-4e652c7f6693.
+2024-10-03 11:55:39,819 - INFO - Fetching data for schedule ID: 1e79504a-af56-4165-bcfe-b3b5dfd07e90...
+2024-10-03 11:55:40,408 - INFO - Data fetched for schedule ID: 1e79504a-af56-4165-bcfe-b3b5dfd07e90.
+2024-10-03 11:55:40,665 - INFO - Fetching data for schedule ID: 1e871226-b678-4935-b706-b652bc686cfc...
+2024-10-03 11:55:41,282 - INFO - Data fetched for schedule ID: 1e871226-b678-4935-b706-b652bc686cfc.
+2024-10-03 11:55:41,543 - INFO - Fetching data for schedule ID: 1f135093-fe43-44d7-9bd0-254287be3e3d...
+2024-10-03 11:55:42,189 - INFO - Data fetched for schedule ID: 1f135093-fe43-44d7-9bd0-254287be3e3d.
+2024-10-03 11:55:42,446 - INFO - Fetching data for schedule ID: 1fc5e8ef-b317-4466-9a35-c3eae5ce0791...
+2024-10-03 11:55:43,002 - INFO - Data fetched for schedule ID: 1fc5e8ef-b317-4466-9a35-c3eae5ce0791.
+2024-10-03 11:55:43,257 - INFO - Fetching data for schedule ID: 20140322-0c02-440b-af81-ab23141eadfc...
+2024-10-03 11:55:43,910 - INFO - Data fetched for schedule ID: 20140322-0c02-440b-af81-ab23141eadfc.
+2024-10-03 11:55:44,169 - INFO - Fetching data for schedule ID: 2056723d-a153-47cd-bfde-ad41ab21550d...
+2024-10-03 11:55:45,061 - INFO - Data fetched for schedule ID: 2056723d-a153-47cd-bfde-ad41ab21550d.
+2024-10-03 11:55:45,316 - INFO - Fetching data for schedule ID: 208071aa-4e65-40ba-b80a-cf7e326b65c1...
+2024-10-03 11:55:46,105 - INFO - Data fetched for schedule ID: 208071aa-4e65-40ba-b80a-cf7e326b65c1.
+2024-10-03 11:55:46,362 - INFO - Fetching data for schedule ID: 25ef6cc2-6cfc-429d-9409-c87128def199...
+2024-10-03 11:55:47,051 - INFO - Data fetched for schedule ID: 25ef6cc2-6cfc-429d-9409-c87128def199.
+2024-10-03 11:55:47,310 - INFO - Fetching data for schedule ID: 26298dc6-073e-49aa-8265-ed55be219e36...
+2024-10-03 11:55:47,978 - INFO - Data fetched for schedule ID: 26298dc6-073e-49aa-8265-ed55be219e36.
+2024-10-03 11:55:48,235 - INFO - Fetching data for schedule ID: 27206b6c-b0d7-42be-a718-46abeb929cae...
+2024-10-03 11:55:48,772 - INFO - Data fetched for schedule ID: 27206b6c-b0d7-42be-a718-46abeb929cae.
+2024-10-03 11:55:49,027 - INFO - Fetching data for schedule ID: 2773254a-d58a-4c0e-8558-5db674afebe7...
+2024-10-03 11:55:49,778 - INFO - Data fetched for schedule ID: 2773254a-d58a-4c0e-8558-5db674afebe7.
+2024-10-03 11:55:50,048 - INFO - Fetching data for schedule ID: 27d9704f-1813-42fd-91a6-56f573c95606...
+2024-10-03 11:55:50,590 - INFO - Data fetched for schedule ID: 27d9704f-1813-42fd-91a6-56f573c95606.
+2024-10-03 11:55:50,842 - INFO - Fetching data for schedule ID: 2931a4b7-9550-4cb9-80b2-1b36c390600f...
+2024-10-03 11:55:51,519 - INFO - Data fetched for schedule ID: 2931a4b7-9550-4cb9-80b2-1b36c390600f.
+2024-10-03 11:55:51,777 - INFO - Fetching data for schedule ID: 2affba88-a4eb-4846-8dd9-6af551cad57a...
+2024-10-03 11:55:52,283 - INFO - Data fetched for schedule ID: 2affba88-a4eb-4846-8dd9-6af551cad57a.
+2024-10-03 11:55:52,538 - INFO - Fetching data for schedule ID: 2b191102-023b-4e5f-bbf6-a8bde835f14e...
+2024-10-03 11:55:53,073 - INFO - Data fetched for schedule ID: 2b191102-023b-4e5f-bbf6-a8bde835f14e.
+2024-10-03 11:55:53,327 - INFO - Fetching data for schedule ID: 2c760c3f-f30c-407a-9ddb-83631576e32e...
+2024-10-03 11:55:53,836 - INFO - Data fetched for schedule ID: 2c760c3f-f30c-407a-9ddb-83631576e32e.
+2024-10-03 11:55:54,087 - INFO - Fetching data for schedule ID: 2e0e7086-173d-40e4-b5ee-384d5308a8f8...
+2024-10-03 11:55:54,663 - INFO - Data fetched for schedule ID: 2e0e7086-173d-40e4-b5ee-384d5308a8f8.
+2024-10-03 11:55:54,916 - INFO - Fetching data for schedule ID: 2e12699d-77d2-4051-9e15-8c739887e147...
+2024-10-03 11:55:55,418 - INFO - Data fetched for schedule ID: 2e12699d-77d2-4051-9e15-8c739887e147.
+2024-10-03 11:55:55,676 - INFO - Fetching data for schedule ID: 2eacdc70-4e6d-4e73-86d6-1726d5083fda...
+2024-10-03 11:55:56,415 - INFO - Data fetched for schedule ID: 2eacdc70-4e6d-4e73-86d6-1726d5083fda.
+2024-10-03 11:55:56,673 - INFO - Fetching data for schedule ID: 30ccd426-1a08-4399-8b79-df968b448730...
+2024-10-03 11:55:57,244 - INFO - Data fetched for schedule ID: 30ccd426-1a08-4399-8b79-df968b448730.
+2024-10-03 11:55:57,501 - INFO - Fetching data for schedule ID: 31005e20-805b-4caf-bb86-685fac3591f6...
+2024-10-03 11:55:57,997 - INFO - Data fetched for schedule ID: 31005e20-805b-4caf-bb86-685fac3591f6.
+2024-10-03 11:55:58,248 - INFO - Fetching data for schedule ID: 31e984d4-962c-44af-8fa4-955f5bf64683...
+2024-10-03 11:55:58,867 - INFO - Data fetched for schedule ID: 31e984d4-962c-44af-8fa4-955f5bf64683.
+2024-10-03 11:55:58,871 - WARNING - No 'periods' found for rotation: IST in Schedule: Nutanix Central Tier5
+2024-10-03 11:55:59,131 - INFO - Fetching data for schedule ID: 337bb60d-94d5-4494-9528-a6661731a5d4...
+2024-10-03 11:55:59,746 - INFO - Data fetched for schedule ID: 337bb60d-94d5-4494-9528-a6661731a5d4.
+2024-10-03 11:56:00,008 - INFO - Fetching data for schedule ID: 339f7b80-aadc-4fbc-9fee-bd56c72dc636...
+2024-10-03 11:56:00,532 - INFO - Data fetched for schedule ID: 339f7b80-aadc-4fbc-9fee-bd56c72dc636.
+2024-10-03 11:56:00,786 - INFO - Fetching data for schedule ID: 34f8c90c-7bec-4f85-8e24-6027fb2bc42b...
+2024-10-03 11:56:01,292 - INFO - Data fetched for schedule ID: 34f8c90c-7bec-4f85-8e24-6027fb2bc42b.
+2024-10-03 11:56:01,544 - INFO - Fetching data for schedule ID: 36c2f1d9-3b73-49b0-90bf-8c461babd5b3...
+2024-10-03 11:56:02,320 - INFO - Data fetched for schedule ID: 36c2f1d9-3b73-49b0-90bf-8c461babd5b3.
+2024-10-03 11:56:02,330 - WARNING - No 'periods' found for rotation: Mar-RotationMorng in Schedule: Xi Live Site Engineering - Primary
+2024-10-03 11:56:02,330 - WARNING - No 'periods' found for rotation: Mar-RotationAft in Schedule: Xi Live Site Engineering - Primary
+2024-10-03 11:56:02,330 - WARNING - No 'periods' found for rotation: Apr-RotationMorng in Schedule: Xi Live Site Engineering - Primary
+2024-10-03 11:56:02,330 - WARNING - No 'periods' found for rotation: Apr-RotationAfternoon in Schedule: Xi Live Site Engineering - Primary
+2024-10-03 11:56:02,330 - WARNING - No 'periods' found for rotation: May-RotationMorng in Schedule: Xi Live Site Engineering - Primary
+2024-10-03 11:56:02,330 - WARNING - No 'periods' found for rotation: May-RotationAfternoon in Schedule: Xi Live Site Engineering - Primary
+2024-10-03 11:56:02,330 - WARNING - No 'periods' found for rotation: Jun-RotationMorng in Schedule: Xi Live Site Engineering - Primary
+2024-10-03 11:56:02,330 - WARNING - No 'periods' found for rotation: Jun-RotationAfternoon in Schedule: Xi Live Site Engineering - Primary
+2024-10-03 11:56:02,583 - INFO - Fetching data for schedule ID: 373ab46b-48e0-4a76-9796-6f1fd7f33407...
+2024-10-03 11:56:03,189 - INFO - Data fetched for schedule ID: 373ab46b-48e0-4a76-9796-6f1fd7f33407.
+2024-10-03 11:56:03,448 - INFO - Fetching data for schedule ID: 38892d65-c971-4fdc-8ddc-c2abadd45309...
+2024-10-03 11:56:03,990 - INFO - Data fetched for schedule ID: 38892d65-c971-4fdc-8ddc-c2abadd45309.
+2024-10-03 11:56:04,246 - INFO - Fetching data for schedule ID: 38919ffb-8bdd-4fd6-a823-a69d607b8901...
+2024-10-03 11:56:04,810 - INFO - Data fetched for schedule ID: 38919ffb-8bdd-4fd6-a823-a69d607b8901.
+2024-10-03 11:56:05,066 - INFO - Fetching data for schedule ID: 38aa962f-51cc-49e4-ba65-57df29bf194a...
+2024-10-03 11:56:05,693 - INFO - Data fetched for schedule ID: 38aa962f-51cc-49e4-ba65-57df29bf194a.
+2024-10-03 11:56:05,977 - INFO - Fetching data for schedule ID: 3b5128cf-3963-40ca-a882-55896c72e6c5...
+2024-10-03 11:56:06,603 - INFO - Data fetched for schedule ID: 3b5128cf-3963-40ca-a882-55896c72e6c5.
+2024-10-03 11:56:06,866 - INFO - Fetching data for schedule ID: 3bef4642-4f6e-485c-98fc-a39c69de9dd4...
+2024-10-03 11:57:07,394 - INFO - Data fetched for schedule ID: 3bef4642-4f6e-485c-98fc-a39c69de9dd4.
+2024-10-03 11:57:07,656 - INFO - Fetching data for schedule ID: 3d3da3a1-4806-4731-b0a8-cf3e0845dc49...
+2024-10-03 11:57:08,431 - INFO - Data fetched for schedule ID: 3d3da3a1-4806-4731-b0a8-cf3e0845dc49.
+2024-10-03 11:57:08,690 - INFO - Fetching data for schedule ID: 3f089720-878d-4f3a-b0cc-910742b51422...
+2024-10-03 11:57:09,200 - INFO - Data fetched for schedule ID: 3f089720-878d-4f3a-b0cc-910742b51422.
+2024-10-03 11:57:09,455 - INFO - Fetching data for schedule ID: 3f1186e8-1849-4d9b-b004-bfe88017928c...
+2024-10-03 11:57:09,981 - INFO - Data fetched for schedule ID: 3f1186e8-1849-4d9b-b004-bfe88017928c.
+2024-10-03 11:57:09,983 - WARNING - No 'periods' found for rotation: Google_OpsGenie_Integration in Schedule: Federal_SRE_Script_test_1
+2024-10-03 11:57:10,237 - INFO - Fetching data for schedule ID: 3f992e66-fa5c-4aeb-990a-accdc5fc3bfa...
+2024-10-03 11:57:10,739 - INFO - Data fetched for schedule ID: 3f992e66-fa5c-4aeb-990a-accdc5fc3bfa.
+2024-10-03 11:57:10,996 - INFO - Fetching data for schedule ID: 4016295e-3204-4ef5-993d-6a209c11aa47...
+2024-10-03 11:57:11,651 - INFO - Data fetched for schedule ID: 4016295e-3204-4ef5-993d-6a209c11aa47.
+2024-10-03 11:57:11,917 - INFO - Fetching data for schedule ID: 40e61b18-0e43-4abd-9ad8-753e698db51d...
+2024-10-03 11:57:12,578 - INFO - Data fetched for schedule ID: 40e61b18-0e43-4abd-9ad8-753e698db51d.
+2024-10-03 11:57:12,836 - INFO - Fetching data for schedule ID: 4119792d-6917-4f41-9958-9cde55a2ec3e...
+2024-10-03 11:57:13,567 - INFO - Data fetched for schedule ID: 4119792d-6917-4f41-9958-9cde55a2ec3e.
+2024-10-03 11:57:13,826 - INFO - Fetching data for schedule ID: 418c4d7e-5e8d-421e-9e12-b4ee022b796a...
+2024-10-03 11:57:14,364 - INFO - Data fetched for schedule ID: 418c4d7e-5e8d-421e-9e12-b4ee022b796a.
+2024-10-03 11:57:14,617 - INFO - Fetching data for schedule ID: 435c8254-bc1e-44b9-bcd9-8e1695df6f97...
+2024-10-03 11:57:15,122 - INFO - Data fetched for schedule ID: 435c8254-bc1e-44b9-bcd9-8e1695df6f97.
+2024-10-03 11:57:15,374 - INFO - Fetching data for schedule ID: 43766eca-c766-4a1a-94a9-6858dc401f38...
+2024-10-03 11:57:15,951 - INFO - Data fetched for schedule ID: 43766eca-c766-4a1a-94a9-6858dc401f38.
+2024-10-03 11:57:16,211 - INFO - Fetching data for schedule ID: 43dddf72-2377-48dd-8967-e3fc5a27278a...
+2024-10-03 11:57:16,741 - INFO - Data fetched for schedule ID: 43dddf72-2377-48dd-8967-e3fc5a27278a.
+2024-10-03 11:57:16,995 - INFO - Fetching data for schedule ID: 47e59710-f937-4440-a272-9408b3c451f4...
+2024-10-03 11:57:17,551 - INFO - Data fetched for schedule ID: 47e59710-f937-4440-a272-9408b3c451f4.
+2024-10-03 11:57:17,807 - INFO - Fetching data for schedule ID: 47f6d569-f8ea-4fc3-8515-04efe4e5e488...
+2024-10-03 11:57:18,402 - INFO - Data fetched for schedule ID: 47f6d569-f8ea-4fc3-8515-04efe4e5e488.
+2024-10-03 11:57:18,657 - INFO - Fetching data for schedule ID: 49428965-5b3f-4299-874c-8817e0ac102a...
+2024-10-03 11:57:19,151 - INFO - Data fetched for schedule ID: 49428965-5b3f-4299-874c-8817e0ac102a.
+2024-10-03 11:57:19,409 - INFO - Fetching data for schedule ID: 49bf63ea-1150-4043-a85d-2b91f0ce4c4d...
+2024-10-03 11:57:20,025 - INFO - Data fetched for schedule ID: 49bf63ea-1150-4043-a85d-2b91f0ce4c4d.
+2024-10-03 11:57:20,334 - INFO - Fetching data for schedule ID: 4c52df01-28ec-449a-9c5a-f5f41cf080d4...
+2024-10-03 11:57:21,061 - INFO - Data fetched for schedule ID: 4c52df01-28ec-449a-9c5a-f5f41cf080d4.
+2024-10-03 11:57:21,317 - INFO - Fetching data for schedule ID: 4d2e4a9e-def8-4813-b82f-5770b8aaa128...
+2024-10-03 11:57:22,020 - INFO - Data fetched for schedule ID: 4d2e4a9e-def8-4813-b82f-5770b8aaa128.
+2024-10-03 11:57:22,276 - INFO - Fetching data for schedule ID: 4d65b451-dec0-4a22-b814-ff98332bc92b...
+2024-10-03 11:57:22,836 - INFO - Data fetched for schedule ID: 4d65b451-dec0-4a22-b814-ff98332bc92b.
+2024-10-03 11:57:23,090 - INFO - Fetching data for schedule ID: 4d86e63a-741b-49c5-8cea-cf8fb03d55dc...
+2024-10-03 11:57:23,680 - INFO - Data fetched for schedule ID: 4d86e63a-741b-49c5-8cea-cf8fb03d55dc.
+2024-10-03 11:57:23,939 - INFO - Fetching data for schedule ID: 4ddf6d4a-2eee-410c-828b-709dc5696eff...
+2024-10-03 11:57:24,563 - INFO - Data fetched for schedule ID: 4ddf6d4a-2eee-410c-828b-709dc5696eff.
+2024-10-03 11:57:24,824 - INFO - Fetching data for schedule ID: 4e54fb7f-bccc-48b8-aae0-bf319f34da7b...
+2024-10-03 11:57:25,329 - INFO - Data fetched for schedule ID: 4e54fb7f-bccc-48b8-aae0-bf319f34da7b.
+2024-10-03 11:57:25,584 - INFO - Fetching data for schedule ID: 510eb3c8-58fb-48d3-89f7-cf00fe0b5b10...
+2024-10-03 11:57:26,154 - INFO - Data fetched for schedule ID: 510eb3c8-58fb-48d3-89f7-cf00fe0b5b10.
+2024-10-03 11:57:26,412 - INFO - Fetching data for schedule ID: 5181eec9-7c6a-4405-ab55-bbd920abfa58...
+2024-10-03 11:57:26,932 - INFO - Data fetched for schedule ID: 5181eec9-7c6a-4405-ab55-bbd920abfa58.
+2024-10-03 11:57:27,191 - INFO - Fetching data for schedule ID: 52c46942-dcb3-43b5-9cc2-63d6d336d07b...
+2024-10-03 11:57:27,850 - INFO - Data fetched for schedule ID: 52c46942-dcb3-43b5-9cc2-63d6d336d07b.
+2024-10-03 11:57:28,110 - INFO - Fetching data for schedule ID: 52ef670b-603e-4db3-bb4b-b8f458ee0c98...
+2024-10-03 11:57:28,680 - INFO - Data fetched for schedule ID: 52ef670b-603e-4db3-bb4b-b8f458ee0c98.
+2024-10-03 11:57:28,681 - WARNING - No 'periods' found for rotation: 【1】go hasuike in Schedule: CSL_Schedule
+2024-10-03 11:57:28,681 - WARNING - No 'periods' found for rotation: 【1】kenji hagiwara in Schedule: CSL_Schedule
+2024-10-03 11:57:28,681 - WARNING - No 'periods' found for rotation: 【1】kensuke kasahara in Schedule: CSL_Schedule
+2024-10-03 11:57:28,681 - WARNING - No 'periods' found for rotation: 【2】kensuke kasahara in Schedule: CSL_Schedule
+2024-10-03 11:57:28,935 - INFO - Fetching data for schedule ID: 53365d3a-5dcd-4db9-b04d-44166f062b96...
+2024-10-03 11:57:29,443 - INFO - Data fetched for schedule ID: 53365d3a-5dcd-4db9-b04d-44166f062b96.
+2024-10-03 11:57:29,694 - INFO - Fetching data for schedule ID: 53b4bb0f-9fe3-4245-86fc-826e3e771c7b...
+2024-10-03 11:57:30,329 - INFO - Data fetched for schedule ID: 53b4bb0f-9fe3-4245-86fc-826e3e771c7b.
+2024-10-03 11:57:30,330 - WARNING - No 'periods' found for rotation: Nov17~Jan31 in Schedule: Japan SRE Manager_schedule
+2024-10-03 11:57:30,330 - WARNING - No 'periods' found for rotation: Feb24- in Schedule: Japan SRE Manager_schedule
+2024-10-03 11:57:30,330 - WARNING - No 'periods' found for rotation: May6 ~Jun17 in Schedule: Japan SRE Manager_schedule
+2024-10-03 11:57:30,582 - INFO - Fetching data for schedule ID: 53f793a1-db93-479b-afde-7760907e0b75...
+2024-10-03 11:57:31,166 - INFO - Data fetched for schedule ID: 53f793a1-db93-479b-afde-7760907e0b75.
+2024-10-03 11:57:31,421 - INFO - Fetching data for schedule ID: 5520e046-9f14-4f72-949c-f37e7ba5a0a1...
+2024-10-03 11:57:32,115 - INFO - Data fetched for schedule ID: 5520e046-9f14-4f72-949c-f37e7ba5a0a1.
+2024-10-03 11:57:32,375 - INFO - Fetching data for schedule ID: 581cc480-6c2e-471a-9598-25b1f348927d...
+2024-10-03 11:57:32,946 - INFO - Data fetched for schedule ID: 581cc480-6c2e-471a-9598-25b1f348927d.
+2024-10-03 11:57:33,200 - INFO - Fetching data for schedule ID: 58fa6cef-3b49-4309-b865-94bc23bad330...
+2024-10-03 11:57:33,818 - INFO - Data fetched for schedule ID: 58fa6cef-3b49-4309-b865-94bc23bad330.
+2024-10-03 11:57:34,076 - INFO - Fetching data for schedule ID: 59e04051-1b6d-446e-baf0-3619bf9ca806...
+2024-10-03 11:57:34,681 - INFO - Data fetched for schedule ID: 59e04051-1b6d-446e-baf0-3619bf9ca806.
+2024-10-03 11:57:34,683 - WARNING - No 'periods' found for rotation: Layer 1 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,683 - WARNING - No 'periods' found for rotation: Layer 2 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,683 - WARNING - No 'periods' found for rotation: Layer 4 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,683 - WARNING - No 'periods' found for rotation: Layer 5 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,683 - WARNING - No 'periods' found for rotation: Layer 6 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,683 - WARNING - No 'periods' found for rotation: Rota7 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,683 - WARNING - No 'periods' found for rotation: Rota8 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,683 - WARNING - No 'periods' found for rotation: Rota9 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,683 - WARNING - No 'periods' found for rotation: Rota10 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,683 - WARNING - No 'periods' found for rotation: Rota11 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,683 - WARNING - No 'periods' found for rotation: Rota12 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,683 - WARNING - No 'periods' found for rotation: Rota13 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,683 - WARNING - No 'periods' found for rotation: Rota14 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,683 - WARNING - No 'periods' found for rotation: Rota15 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,683 - WARNING - No 'periods' found for rotation: Rota16 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,683 - WARNING - No 'periods' found for rotation: Rota17 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,683 - WARNING - No 'periods' found for rotation: Rota18 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,683 - WARNING - No 'periods' found for rotation: Rota19 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,683 - WARNING - No 'periods' found for rotation: Rota20 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,683 - WARNING - No 'periods' found for rotation: Rota21 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,683 - WARNING - No 'periods' found for rotation: Rota22 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,683 - WARNING - No 'periods' found for rotation: Rota23 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,683 - WARNING - No 'periods' found for rotation: Rota24 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,683 - WARNING - No 'periods' found for rotation: Rota25 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,683 - WARNING - No 'periods' found for rotation: Rota26 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,683 - WARNING - No 'periods' found for rotation: Rota27 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,683 - WARNING - No 'periods' found for rotation: Rota28 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,683 - WARNING - No 'periods' found for rotation: Rota29 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,683 - WARNING - No 'periods' found for rotation: Rota30 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,683 - WARNING - No 'periods' found for rotation: Rota31 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,683 - WARNING - No 'periods' found for rotation: Rota32 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,683 - WARNING - No 'periods' found for rotation: Rota33 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,683 - WARNING - No 'periods' found for rotation: Rota34 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,683 - WARNING - No 'periods' found for rotation: Rota35 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,683 - WARNING - No 'periods' found for rotation: Rota36 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,683 - WARNING - No 'periods' found for rotation: Rota37 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,683 - WARNING - No 'periods' found for rotation: Rota38 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,684 - WARNING - No 'periods' found for rotation: Rota39 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,684 - WARNING - No 'periods' found for rotation: Rota40 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,684 - WARNING - No 'periods' found for rotation: Rota41 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,684 - WARNING - No 'periods' found for rotation: Rota42 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,684 - WARNING - No 'periods' found for rotation: Rota43 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,684 - WARNING - No 'periods' found for rotation: Rota44 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,684 - WARNING - No 'periods' found for rotation: Rota45 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,684 - WARNING - No 'periods' found for rotation: Rota46 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,684 - WARNING - No 'periods' found for rotation: Rota47 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,684 - WARNING - No 'periods' found for rotation: Rota48 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,684 - WARNING - No 'periods' found for rotation: Rota49 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,684 - WARNING - No 'periods' found for rotation: Rota50 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,684 - WARNING - No 'periods' found for rotation: Rota51 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,684 - WARNING - No 'periods' found for rotation: Rota52 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,684 - WARNING - No 'periods' found for rotation: Rota53 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,684 - WARNING - No 'periods' found for rotation: Rota54 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,684 - WARNING - No 'periods' found for rotation: Rota55 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,684 - WARNING - No 'periods' found for rotation: Rota56 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,684 - WARNING - No 'periods' found for rotation: Rota57 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,684 - WARNING - No 'periods' found for rotation: Rota58 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,684 - WARNING - No 'periods' found for rotation: Rota59 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,684 - WARNING - No 'periods' found for rotation: Rota60 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,684 - WARNING - No 'periods' found for rotation: Rota61 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,684 - WARNING - No 'periods' found for rotation: Rota62 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,684 - WARNING - No 'periods' found for rotation: Rota63 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,684 - WARNING - No 'periods' found for rotation: Rota64 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,684 - WARNING - No 'periods' found for rotation: Rota65 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,684 - WARNING - No 'periods' found for rotation: Rota66 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,684 - WARNING - No 'periods' found for rotation: Rota67 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,684 - WARNING - No 'periods' found for rotation: Rota68 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,684 - WARNING - No 'periods' found for rotation: Rota69 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,684 - WARNING - No 'periods' found for rotation: Rota70 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,684 - WARNING - No 'periods' found for rotation: Rota71 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,684 - WARNING - No 'periods' found for rotation: Rota72 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,684 - WARNING - No 'periods' found for rotation: Rota73 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,684 - WARNING - No 'periods' found for rotation: Rota74 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,684 - WARNING - No 'periods' found for rotation: Rota75 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,684 - WARNING - No 'periods' found for rotation: Rota76 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,685 - WARNING - No 'periods' found for rotation: Rota77 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,685 - WARNING - No 'periods' found for rotation: Rota78 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,685 - WARNING - No 'periods' found for rotation: Rota79 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,685 - WARNING - No 'periods' found for rotation: Rota80 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,685 - WARNING - No 'periods' found for rotation: Rota81 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,685 - WARNING - No 'periods' found for rotation: Rota82 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,685 - WARNING - No 'periods' found for rotation: Rota83 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,685 - WARNING - No 'periods' found for rotation: Rota84 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,685 - WARNING - No 'periods' found for rotation: Rota85 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,685 - WARNING - No 'periods' found for rotation: Rota88 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,685 - WARNING - No 'periods' found for rotation: Rota89 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,685 - WARNING - No 'periods' found for rotation: Rota90 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,685 - WARNING - No 'periods' found for rotation: Rota91 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,685 - WARNING - No 'periods' found for rotation: Rota92 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,685 - WARNING - No 'periods' found for rotation: Rota93 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,685 - WARNING - No 'periods' found for rotation: Rota94 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,685 - WARNING - No 'periods' found for rotation: Rota95 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,685 - WARNING - No 'periods' found for rotation: Rota96 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,685 - WARNING - No 'periods' found for rotation: Rota97 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,685 - WARNING - No 'periods' found for rotation: Rota98 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,685 - WARNING - No 'periods' found for rotation: Rota99 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,685 - WARNING - No 'periods' found for rotation: Rota100 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,685 - WARNING - No 'periods' found for rotation: Rota101 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,685 - WARNING - No 'periods' found for rotation: Rota102 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,685 - WARNING - No 'periods' found for rotation: Rota103 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,685 - WARNING - No 'periods' found for rotation: Rota104 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,685 - WARNING - No 'periods' found for rotation: Rota105 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,685 - WARNING - No 'periods' found for rotation: Rota106 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,685 - WARNING - No 'periods' found for rotation: Rota107 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,685 - WARNING - No 'periods' found for rotation: Rota108 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,685 - WARNING - No 'periods' found for rotation: Rota109 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,685 - WARNING - No 'periods' found for rotation: Rota110 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,685 - WARNING - No 'periods' found for rotation: Rota111 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,685 - WARNING - No 'periods' found for rotation: Rota112 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,685 - WARNING - No 'periods' found for rotation: Rota113 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,685 - WARNING - No 'periods' found for rotation: Rota114 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,685 - WARNING - No 'periods' found for rotation: Rota115 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,686 - WARNING - No 'periods' found for rotation: Rota116 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,686 - WARNING - No 'periods' found for rotation: Rota117 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,686 - WARNING - No 'periods' found for rotation: Rota118 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,686 - WARNING - No 'periods' found for rotation: Rota119 in Schedule: SaaS Off Hour On-Call Support US
+2024-10-03 11:57:34,941 - INFO - Fetching data for schedule ID: 5a7afc1b-d3b3-40fe-b194-726afc06790e...
+2024-10-03 11:57:35,585 - INFO - Data fetched for schedule ID: 5a7afc1b-d3b3-40fe-b194-726afc06790e.
+2024-10-03 11:57:35,841 - INFO - Fetching data for schedule ID: 5abce889-79f1-4eda-b24b-4c263e688b5a...
+2024-10-03 11:57:36,442 - INFO - Data fetched for schedule ID: 5abce889-79f1-4eda-b24b-4c263e688b5a.
+2024-10-03 11:57:36,700 - INFO - Fetching data for schedule ID: 5c575bfb-ce95-49ff-b04d-b43dea0954b3...
+2024-10-03 11:57:37,215 - INFO - Data fetched for schedule ID: 5c575bfb-ce95-49ff-b04d-b43dea0954b3.
+2024-10-03 11:57:37,471 - INFO - Fetching data for schedule ID: 5c83ee9c-5317-4895-b8a1-333b304add87...
+2024-10-03 11:57:38,074 - INFO - Data fetched for schedule ID: 5c83ee9c-5317-4895-b8a1-333b304add87.
+2024-10-03 11:57:38,333 - INFO - Fetching data for schedule ID: 5c9c776a-483e-4e58-bbb8-0225cd5d0949...
+2024-10-03 11:57:38,824 - INFO - Data fetched for schedule ID: 5c9c776a-483e-4e58-bbb8-0225cd5d0949.
+2024-10-03 11:57:38,825 - WARNING - No 'periods' found for rotation: Rot1 in Schedule: Cluster Conversion_schedule
+2024-10-03 11:57:39,078 - INFO - Fetching data for schedule ID: 5d7e2009-5cd0-485f-bfcd-2ce1e55b6cde...
+2024-10-03 11:57:39,828 - INFO - Data fetched for schedule ID: 5d7e2009-5cd0-485f-bfcd-2ce1e55b6cde.
+2024-10-03 11:57:40,087 - INFO - Fetching data for schedule ID: 5e41cb1b-cad1-4397-8946-d7416cfa461c...
+2024-10-03 11:57:40,784 - INFO - Data fetched for schedule ID: 5e41cb1b-cad1-4397-8946-d7416cfa461c.
+2024-10-03 11:57:41,046 - INFO - Fetching data for schedule ID: 5fac2bc3-b76e-482b-aa4b-fc42994e4bef...
+2024-10-03 11:57:41,553 - INFO - Data fetched for schedule ID: 5fac2bc3-b76e-482b-aa4b-fc42994e4bef.
+2024-10-03 11:57:41,808 - INFO - Fetching data for schedule ID: 60318bb5-43a5-498c-8198-79760db21dca...
+2024-10-03 11:57:42,615 - INFO - Data fetched for schedule ID: 60318bb5-43a5-498c-8198-79760db21dca.
+2024-10-03 11:57:42,875 - INFO - Fetching data for schedule ID: 6086323e-ba4d-4a01-bc1f-19390fcb293b...
+2024-10-03 11:57:43,404 - INFO - Data fetched for schedule ID: 6086323e-ba4d-4a01-bc1f-19390fcb293b.
+2024-10-03 11:57:43,660 - INFO - Fetching data for schedule ID: 60c428a0-c597-4372-b945-2ddc003b3576...
+2024-10-03 11:57:44,321 - INFO - Data fetched for schedule ID: 60c428a0-c597-4372-b945-2ddc003b3576.
+2024-10-03 11:57:44,576 - INFO - Fetching data for schedule ID: 61764a43-821a-4de6-80a4-c5b8164b9f01...
+2024-10-03 11:57:45,120 - INFO - Data fetched for schedule ID: 61764a43-821a-4de6-80a4-c5b8164b9f01.
+2024-10-03 11:57:45,373 - INFO - Fetching data for schedule ID: 61bea0f9-2658-44c1-8cf3-9e119e06d99e...
+2024-10-03 11:57:45,877 - INFO - Data fetched for schedule ID: 61bea0f9-2658-44c1-8cf3-9e119e06d99e.
+2024-10-03 11:57:46,129 - INFO - Fetching data for schedule ID: 6305fd8b-8d2d-47de-a5ab-2bcb426c2cd5...
+2024-10-03 11:57:46,864 - INFO - Data fetched for schedule ID: 6305fd8b-8d2d-47de-a5ab-2bcb426c2cd5.
+2024-10-03 11:57:47,123 - INFO - Fetching data for schedule ID: 63314fc0-1897-406d-865a-8ef36115dfca...
+2024-10-03 11:57:47,683 - INFO - Data fetched for schedule ID: 63314fc0-1897-406d-865a-8ef36115dfca.
+2024-10-03 11:57:47,942 - INFO - Fetching data for schedule ID: 6351522c-72b4-4fed-ab27-afa43d062527...
+2024-10-03 11:57:48,507 - INFO - Data fetched for schedule ID: 6351522c-72b4-4fed-ab27-afa43d062527.
+2024-10-03 11:57:48,762 - INFO - Fetching data for schedule ID: 6381ec24-6c15-4d2b-b42f-9902adcce191...
+2024-10-03 11:57:49,790 - INFO - Data fetched for schedule ID: 6381ec24-6c15-4d2b-b42f-9902adcce191.
+2024-10-03 11:57:50,074 - INFO - Fetching data for schedule ID: 647c0949-ca32-4f0a-937d-4d1a690b3781...
+2024-10-03 11:57:50,599 - INFO - Data fetched for schedule ID: 647c0949-ca32-4f0a-937d-4d1a690b3781.
+2024-10-03 11:57:50,603 - WARNING - No 'periods' found for rotation: Rota1 in Schedule: SaaS Qtr End Support Boomi US
+2024-10-03 11:57:50,603 - WARNING - No 'periods' found for rotation: Rota2 in Schedule: SaaS Qtr End Support Boomi US
+2024-10-03 11:57:50,603 - WARNING - No 'periods' found for rotation: Rota3 in Schedule: SaaS Qtr End Support Boomi US
+2024-10-03 11:57:50,603 - WARNING - No 'periods' found for rotation: Rota4 in Schedule: SaaS Qtr End Support Boomi US
+2024-10-03 11:57:50,603 - WARNING - No 'periods' found for rotation: Rota5 in Schedule: SaaS Qtr End Support Boomi US
+2024-10-03 11:57:50,603 - WARNING - No 'periods' found for rotation: Rota6 in Schedule: SaaS Qtr End Support Boomi US
+2024-10-03 11:57:50,603 - WARNING - No 'periods' found for rotation: Rota7 in Schedule: SaaS Qtr End Support Boomi US
+2024-10-03 11:57:50,603 - WARNING - No 'periods' found for rotation: Rota8 in Schedule: SaaS Qtr End Support Boomi US
+2024-10-03 11:57:50,603 - WARNING - No 'periods' found for rotation: Rota9 in Schedule: SaaS Qtr End Support Boomi US
+2024-10-03 11:57:50,603 - WARNING - No 'periods' found for rotation: Rota10 in Schedule: SaaS Qtr End Support Boomi US
+2024-10-03 11:57:50,603 - WARNING - No 'periods' found for rotation: Rota11 in Schedule: SaaS Qtr End Support Boomi US
+2024-10-03 11:57:50,603 - WARNING - No 'periods' found for rotation: Rota12 in Schedule: SaaS Qtr End Support Boomi US
+2024-10-03 11:57:50,603 - WARNING - No 'periods' found for rotation: Rota13 in Schedule: SaaS Qtr End Support Boomi US
+2024-10-03 11:57:50,603 - WARNING - No 'periods' found for rotation: Rota14 in Schedule: SaaS Qtr End Support Boomi US
+2024-10-03 11:57:50,603 - WARNING - No 'periods' found for rotation: Rota15 in Schedule: SaaS Qtr End Support Boomi US
+2024-10-03 11:57:50,603 - WARNING - No 'periods' found for rotation: Rota16 in Schedule: SaaS Qtr End Support Boomi US
+2024-10-03 11:57:50,603 - WARNING - No 'periods' found for rotation: Rota17 in Schedule: SaaS Qtr End Support Boomi US
+2024-10-03 11:57:50,603 - WARNING - No 'periods' found for rotation: Rota18 in Schedule: SaaS Qtr End Support Boomi US
+2024-10-03 11:57:50,603 - WARNING - No 'periods' found for rotation: Rota19 in Schedule: SaaS Qtr End Support Boomi US
+2024-10-03 11:57:50,603 - WARNING - No 'periods' found for rotation: Rota20 in Schedule: SaaS Qtr End Support Boomi US
+2024-10-03 11:57:50,603 - WARNING - No 'periods' found for rotation: Rota21 in Schedule: SaaS Qtr End Support Boomi US
+2024-10-03 11:57:50,604 - WARNING - No 'periods' found for rotation: Rota22 in Schedule: SaaS Qtr End Support Boomi US
+2024-10-03 11:57:50,604 - WARNING - No 'periods' found for rotation: Rota23 in Schedule: SaaS Qtr End Support Boomi US
+2024-10-03 11:57:50,604 - WARNING - No 'periods' found for rotation: Rota24 in Schedule: SaaS Qtr End Support Boomi US
+2024-10-03 11:57:50,604 - WARNING - No 'periods' found for rotation: Rota25 in Schedule: SaaS Qtr End Support Boomi US
+2024-10-03 11:57:50,604 - WARNING - No 'periods' found for rotation: Rota26 in Schedule: SaaS Qtr End Support Boomi US
+2024-10-03 11:57:50,604 - WARNING - No 'periods' found for rotation: Rota27 in Schedule: SaaS Qtr End Support Boomi US
+2024-10-03 11:57:50,604 - WARNING - No 'periods' found for rotation: Rota28 in Schedule: SaaS Qtr End Support Boomi US
+2024-10-03 11:57:50,604 - WARNING - No 'periods' found for rotation: Rota29 in Schedule: SaaS Qtr End Support Boomi US
+2024-10-03 11:57:50,604 - WARNING - No 'periods' found for rotation: Rota30 in Schedule: SaaS Qtr End Support Boomi US
+2024-10-03 11:57:50,604 - WARNING - No 'periods' found for rotation: Rota31 in Schedule: SaaS Qtr End Support Boomi US
+2024-10-03 11:57:50,604 - WARNING - No 'periods' found for rotation: Rota32 in Schedule: SaaS Qtr End Support Boomi US
+2024-10-03 11:57:50,604 - WARNING - No 'periods' found for rotation: Rota33 in Schedule: SaaS Qtr End Support Boomi US
+2024-10-03 11:57:50,604 - WARNING - No 'periods' found for rotation: Rota34 in Schedule: SaaS Qtr End Support Boomi US
+2024-10-03 11:57:50,604 - WARNING - No 'periods' found for rotation: Rota35 in Schedule: SaaS Qtr End Support Boomi US
+2024-10-03 11:57:50,604 - WARNING - No 'periods' found for rotation: Rota36 in Schedule: SaaS Qtr End Support Boomi US
+2024-10-03 11:57:50,604 - WARNING - No 'periods' found for rotation: Rota37 in Schedule: SaaS Qtr End Support Boomi US
+2024-10-03 11:57:50,604 - WARNING - No 'periods' found for rotation: Rota38 in Schedule: SaaS Qtr End Support Boomi US
+2024-10-03 11:57:50,604 - WARNING - No 'periods' found for rotation: Rota39 in Schedule: SaaS Qtr End Support Boomi US
+2024-10-03 11:57:50,604 - WARNING - No 'periods' found for rotation: Rota40 in Schedule: SaaS Qtr End Support Boomi US
+2024-10-03 11:57:50,859 - INFO - Fetching data for schedule ID: 64891db9-63b5-45fd-b5b8-87109346ce55...
+2024-10-03 11:57:51,450 - INFO - Data fetched for schedule ID: 64891db9-63b5-45fd-b5b8-87109346ce55.
+2024-10-03 11:57:51,712 - INFO - Fetching data for schedule ID: 65c88dac-5059-45ac-84d3-e7039eb24275...
+2024-10-03 11:57:52,343 - INFO - Data fetched for schedule ID: 65c88dac-5059-45ac-84d3-e7039eb24275.
+2024-10-03 11:57:52,602 - INFO - Fetching data for schedule ID: 670b1d1e-520a-4260-9ef0-fbe022be6260...
+2024-10-03 11:57:53,101 - INFO - Data fetched for schedule ID: 670b1d1e-520a-4260-9ef0-fbe022be6260.
+2024-10-03 11:57:53,353 - INFO - Fetching data for schedule ID: 680680e9-2367-41c8-a9a0-7122f23cf709...
+2024-10-03 11:57:54,013 - INFO - Data fetched for schedule ID: 680680e9-2367-41c8-a9a0-7122f23cf709.
+2024-10-03 11:57:54,272 - INFO - Fetching data for schedule ID: 6a74ec6e-5713-4952-a1fd-2b414db89725...
+2024-10-03 11:57:55,069 - INFO - Data fetched for schedule ID: 6a74ec6e-5713-4952-a1fd-2b414db89725.
+2024-10-03 11:57:55,328 - INFO - Fetching data for schedule ID: 6aceccd3-89b5-4cea-aab6-df6c868c905b...
+2024-10-03 11:57:55,882 - INFO - Data fetched for schedule ID: 6aceccd3-89b5-4cea-aab6-df6c868c905b.
+2024-10-03 11:57:55,884 - WARNING - No 'periods' found for rotation: Rota2 in Schedule: GovCloud-SRE_schedule
+2024-10-03 11:57:56,138 - INFO - Fetching data for schedule ID: 6b8321b8-c881-437a-8d21-b5456edbcd96...
+2024-10-03 11:57:56,738 - INFO - Data fetched for schedule ID: 6b8321b8-c881-437a-8d21-b5456edbcd96.
+2024-10-03 11:57:56,998 - INFO - Fetching data for schedule ID: 6c4ef593-fe40-42d6-aafd-6ddd78d5c1c5...
+2024-10-03 11:57:57,500 - INFO - Data fetched for schedule ID: 6c4ef593-fe40-42d6-aafd-6ddd78d5c1c5.
+2024-10-03 11:57:57,755 - INFO - Fetching data for schedule ID: 6c5252d1-7605-4f58-a6c6-0260e5015c13...
+2024-10-03 11:57:58,303 - INFO - Data fetched for schedule ID: 6c5252d1-7605-4f58-a6c6-0260e5015c13.
+2024-10-03 11:57:58,564 - INFO - Fetching data for schedule ID: 6c5c846d-bbd2-4033-9793-471640dd3ba1...
+2024-10-03 11:57:59,121 - INFO - Data fetched for schedule ID: 6c5c846d-bbd2-4033-9793-471640dd3ba1.
+2024-10-03 11:57:59,387 - INFO - Fetching data for schedule ID: 6d07116e-61d6-4ad9-ac70-ddf25133430b...
+2024-10-03 11:58:00,041 - INFO - Data fetched for schedule ID: 6d07116e-61d6-4ad9-ac70-ddf25133430b.
+2024-10-03 11:58:00,301 - INFO - Fetching data for schedule ID: 6d50ac9c-7e96-4a08-9f6c-7108293c20fd...
+2024-10-03 11:58:00,847 - INFO - Data fetched for schedule ID: 6d50ac9c-7e96-4a08-9f6c-7108293c20fd.
+2024-10-03 11:58:01,104 - INFO - Fetching data for schedule ID: 6e17204f-27c5-473c-a668-403488e0d4ca...
+2024-10-03 11:58:01,883 - INFO - Data fetched for schedule ID: 6e17204f-27c5-473c-a668-403488e0d4ca.
+2024-10-03 11:58:02,144 - INFO - Fetching data for schedule ID: 6fa8de7c-6587-4017-9d2e-9e8d49e0d2a4...
+2024-10-03 11:58:02,879 - INFO - Data fetched for schedule ID: 6fa8de7c-6587-4017-9d2e-9e8d49e0d2a4.
+2024-10-03 11:58:03,142 - INFO - Fetching data for schedule ID: 6fe133d5-aa14-4095-94b1-66b14ff092f8...
+2024-10-03 11:58:03,948 - INFO - Data fetched for schedule ID: 6fe133d5-aa14-4095-94b1-66b14ff092f8.
+2024-10-03 11:58:04,208 - INFO - Fetching data for schedule ID: 70f46c58-7539-483b-88bc-5a5a1beeb8e5...
+2024-10-03 11:58:04,756 - INFO - Data fetched for schedule ID: 70f46c58-7539-483b-88bc-5a5a1beeb8e5.
+2024-10-03 11:58:05,009 - INFO - Fetching data for schedule ID: 719e6026-7d21-4b8e-bb02-85ce166fb229...
+2024-10-03 11:58:05,646 - INFO - Data fetched for schedule ID: 719e6026-7d21-4b8e-bb02-85ce166fb229.
+2024-10-03 11:58:05,907 - INFO - Fetching data for schedule ID: 728b1505-4609-4e44-b2eb-443a3423c121...
+2024-10-03 11:58:06,580 - INFO - Data fetched for schedule ID: 728b1505-4609-4e44-b2eb-443a3423c121.
+2024-10-03 11:58:06,840 - INFO - Fetching data for schedule ID: 72d92657-4a9a-407e-b63f-76a1b2cae5eb...
+2024-10-03 11:58:07,388 - INFO - Data fetched for schedule ID: 72d92657-4a9a-407e-b63f-76a1b2cae5eb.
+2024-10-03 11:58:07,389 - WARNING - No 'periods' found for rotation: Rota1 in Schedule: SaaS Qtr End Support SFDC IN
+2024-10-03 11:58:07,389 - WARNING - No 'periods' found for rotation: Rota2 in Schedule: SaaS Qtr End Support SFDC IN
+2024-10-03 11:58:07,389 - WARNING - No 'periods' found for rotation: Rota3 in Schedule: SaaS Qtr End Support SFDC IN
+2024-10-03 11:58:07,389 - WARNING - No 'periods' found for rotation: Rota4 in Schedule: SaaS Qtr End Support SFDC IN
+2024-10-03 11:58:07,389 - WARNING - No 'periods' found for rotation: Rota5 in Schedule: SaaS Qtr End Support SFDC IN
+2024-10-03 11:58:07,389 - WARNING - No 'periods' found for rotation: Rota6 in Schedule: SaaS Qtr End Support SFDC IN
+2024-10-03 11:58:07,389 - WARNING - No 'periods' found for rotation: Rota7 in Schedule: SaaS Qtr End Support SFDC IN
+2024-10-03 11:58:07,389 - WARNING - No 'periods' found for rotation: Rota8 in Schedule: SaaS Qtr End Support SFDC IN
+2024-10-03 11:58:07,389 - WARNING - No 'periods' found for rotation: Rota9 in Schedule: SaaS Qtr End Support SFDC IN
+2024-10-03 11:58:07,389 - WARNING - No 'periods' found for rotation: Rota10 in Schedule: SaaS Qtr End Support SFDC IN
+2024-10-03 11:58:07,389 - WARNING - No 'periods' found for rotation: Rota11 in Schedule: SaaS Qtr End Support SFDC IN
+2024-10-03 11:58:07,389 - WARNING - No 'periods' found for rotation: Rota12 in Schedule: SaaS Qtr End Support SFDC IN
+2024-10-03 11:58:07,389 - WARNING - No 'periods' found for rotation: Rota13 in Schedule: SaaS Qtr End Support SFDC IN
+2024-10-03 11:58:07,389 - WARNING - No 'periods' found for rotation: Rota14 in Schedule: SaaS Qtr End Support SFDC IN
+2024-10-03 11:58:07,389 - WARNING - No 'periods' found for rotation: Rota15 in Schedule: SaaS Qtr End Support SFDC IN
+2024-10-03 11:58:07,389 - WARNING - No 'periods' found for rotation: Rota16 in Schedule: SaaS Qtr End Support SFDC IN
+2024-10-03 11:58:07,389 - WARNING - No 'periods' found for rotation: Rota17 in Schedule: SaaS Qtr End Support SFDC IN
+2024-10-03 11:58:07,389 - WARNING - No 'periods' found for rotation: Rota18 in Schedule: SaaS Qtr End Support SFDC IN
+2024-10-03 11:58:07,390 - WARNING - No 'periods' found for rotation: Rota19 in Schedule: SaaS Qtr End Support SFDC IN
+2024-10-03 11:58:07,390 - WARNING - No 'periods' found for rotation: Rota20 in Schedule: SaaS Qtr End Support SFDC IN
+2024-10-03 11:58:07,390 - WARNING - No 'periods' found for rotation: Rota21 in Schedule: SaaS Qtr End Support SFDC IN
+2024-10-03 11:58:07,390 - WARNING - No 'periods' found for rotation: Rota22 in Schedule: SaaS Qtr End Support SFDC IN
+2024-10-03 11:58:07,390 - WARNING - No 'periods' found for rotation: Rota23 in Schedule: SaaS Qtr End Support SFDC IN
+2024-10-03 11:58:07,390 - WARNING - No 'periods' found for rotation: Rota24 in Schedule: SaaS Qtr End Support SFDC IN
+2024-10-03 11:58:07,390 - WARNING - No 'periods' found for rotation: Rota25 in Schedule: SaaS Qtr End Support SFDC IN
+2024-10-03 11:58:07,390 - WARNING - No 'periods' found for rotation: Rota26 in Schedule: SaaS Qtr End Support SFDC IN
+2024-10-03 11:58:07,390 - WARNING - No 'periods' found for rotation: Rota27 in Schedule: SaaS Qtr End Support SFDC IN
+2024-10-03 11:58:07,390 - WARNING - No 'periods' found for rotation: Rota28 in Schedule: SaaS Qtr End Support SFDC IN
+2024-10-03 11:58:07,390 - WARNING - No 'periods' found for rotation: Rota29 in Schedule: SaaS Qtr End Support SFDC IN
+2024-10-03 11:58:07,390 - WARNING - No 'periods' found for rotation: Rota30 in Schedule: SaaS Qtr End Support SFDC IN
+2024-10-03 11:58:07,390 - WARNING - No 'periods' found for rotation: Rota31 in Schedule: SaaS Qtr End Support SFDC IN
+2024-10-03 11:58:07,390 - WARNING - No 'periods' found for rotation: Rota32 in Schedule: SaaS Qtr End Support SFDC IN
+2024-10-03 11:58:07,390 - WARNING - No 'periods' found for rotation: Rota33 in Schedule: SaaS Qtr End Support SFDC IN
+2024-10-03 11:58:07,390 - WARNING - No 'periods' found for rotation: Rota34 in Schedule: SaaS Qtr End Support SFDC IN
+2024-10-03 11:58:07,390 - WARNING - No 'periods' found for rotation: Rota35 in Schedule: SaaS Qtr End Support SFDC IN
+2024-10-03 11:58:07,390 - WARNING - No 'periods' found for rotation: Rota36 in Schedule: SaaS Qtr End Support SFDC IN
+2024-10-03 11:58:07,390 - WARNING - No 'periods' found for rotation: Rota37 in Schedule: SaaS Qtr End Support SFDC IN
+2024-10-03 11:58:07,390 - WARNING - No 'periods' found for rotation: Rota38 in Schedule: SaaS Qtr End Support SFDC IN
+2024-10-03 11:58:07,390 - WARNING - No 'periods' found for rotation: Rota39 in Schedule: SaaS Qtr End Support SFDC IN
+2024-10-03 11:58:07,390 - WARNING - No 'periods' found for rotation: Rota40 in Schedule: SaaS Qtr End Support SFDC IN
+2024-10-03 11:58:07,390 - WARNING - No 'periods' found for rotation: Rota41 in Schedule: SaaS Qtr End Support SFDC IN
+2024-10-03 11:58:07,390 - WARNING - No 'periods' found for rotation: Rota42 in Schedule: SaaS Qtr End Support SFDC IN
+2024-10-03 11:58:07,390 - WARNING - No 'periods' found for rotation: Rota43 in Schedule: SaaS Qtr End Support SFDC IN
+2024-10-03 11:58:07,390 - WARNING - No 'periods' found for rotation: Rota44 in Schedule: SaaS Qtr End Support SFDC IN
+2024-10-03 11:58:07,644 - INFO - Fetching data for schedule ID: 73034bcf-1daf-47af-a46e-2c7c6ee8ac35...
+2024-10-03 11:58:08,207 - INFO - Data fetched for schedule ID: 73034bcf-1daf-47af-a46e-2c7c6ee8ac35.
+2024-10-03 11:58:08,461 - INFO - Fetching data for schedule ID: 7361f103-9069-4726-bdfb-3730be98ef82...
+2024-10-03 11:58:09,184 - INFO - Data fetched for schedule ID: 7361f103-9069-4726-bdfb-3730be98ef82.
+2024-10-03 11:58:09,440 - INFO - Fetching data for schedule ID: 737cc24f-42b5-4995-9686-c3d643b0541f...
+2024-10-03 11:58:10,018 - INFO - Data fetched for schedule ID: 737cc24f-42b5-4995-9686-c3d643b0541f.
+2024-10-03 11:58:10,274 - INFO - Fetching data for schedule ID: 73971558-5bc9-45fc-965d-d4d00f0b2857...
+2024-10-03 11:58:10,876 - INFO - Data fetched for schedule ID: 73971558-5bc9-45fc-965d-d4d00f0b2857.
+2024-10-03 11:58:11,132 - INFO - Fetching data for schedule ID: 74f25ce9-b3de-469e-9478-f62e9e00b1db...
+2024-10-03 11:58:11,696 - INFO - Data fetched for schedule ID: 74f25ce9-b3de-469e-9478-f62e9e00b1db.
+2024-10-03 11:58:11,950 - INFO - Fetching data for schedule ID: 751ea2ac-55b8-4d8f-b749-685a1a6728ee...
+2024-10-03 11:58:12,576 - INFO - Data fetched for schedule ID: 751ea2ac-55b8-4d8f-b749-685a1a6728ee.
+2024-10-03 11:58:12,576 - WARNING - No 'periods' found for rotation: Layer 1 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,576 - WARNING - No 'periods' found for rotation: Layer 3 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,576 - WARNING - No 'periods' found for rotation: Layer 4 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,577 - WARNING - No 'periods' found for rotation: Layer 5 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,577 - WARNING - No 'periods' found for rotation: Layer 6 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,577 - WARNING - No 'periods' found for rotation: Layer 7 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,577 - WARNING - No 'periods' found for rotation: Rota7 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,577 - WARNING - No 'periods' found for rotation: Rota8 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,577 - WARNING - No 'periods' found for rotation: Rota9 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,577 - WARNING - No 'periods' found for rotation: Rota10 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,577 - WARNING - No 'periods' found for rotation: Rota11 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,577 - WARNING - No 'periods' found for rotation: Rota12 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,577 - WARNING - No 'periods' found for rotation: Rota13 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,577 - WARNING - No 'periods' found for rotation: Rota14 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,577 - WARNING - No 'periods' found for rotation: Rota15 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,577 - WARNING - No 'periods' found for rotation: Rota16 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,577 - WARNING - No 'periods' found for rotation: Rota17 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,577 - WARNING - No 'periods' found for rotation: Rota18 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,577 - WARNING - No 'periods' found for rotation: Rota19 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,577 - WARNING - No 'periods' found for rotation: Rota20 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,577 - WARNING - No 'periods' found for rotation: Rota21 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,577 - WARNING - No 'periods' found for rotation: Rota22 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,577 - WARNING - No 'periods' found for rotation: Rota23 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,577 - WARNING - No 'periods' found for rotation: Rota24 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,577 - WARNING - No 'periods' found for rotation: Rota25 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,577 - WARNING - No 'periods' found for rotation: Rota26 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,577 - WARNING - No 'periods' found for rotation: Rota27 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,577 - WARNING - No 'periods' found for rotation: Rota28 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,577 - WARNING - No 'periods' found for rotation: Rota29 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,577 - WARNING - No 'periods' found for rotation: Rota30 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,577 - WARNING - No 'periods' found for rotation: Rota31 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,577 - WARNING - No 'periods' found for rotation: Rota32 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,577 - WARNING - No 'periods' found for rotation: Rota33 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,577 - WARNING - No 'periods' found for rotation: Rota34 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,577 - WARNING - No 'periods' found for rotation: Rota35 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,577 - WARNING - No 'periods' found for rotation: Rota36 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,577 - WARNING - No 'periods' found for rotation: Rota37 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,578 - WARNING - No 'periods' found for rotation: Rota38 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,578 - WARNING - No 'periods' found for rotation: Rota39 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,578 - WARNING - No 'periods' found for rotation: Rota40 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,578 - WARNING - No 'periods' found for rotation: Rota41 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,578 - WARNING - No 'periods' found for rotation: Rota42 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,578 - WARNING - No 'periods' found for rotation: Rota43 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,578 - WARNING - No 'periods' found for rotation: Rota44 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,578 - WARNING - No 'periods' found for rotation: Rota45 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,578 - WARNING - No 'periods' found for rotation: Rota46 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,578 - WARNING - No 'periods' found for rotation: Rota47 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,578 - WARNING - No 'periods' found for rotation: Rota48 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,578 - WARNING - No 'periods' found for rotation: Rota49 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,578 - WARNING - No 'periods' found for rotation: Rota50 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,578 - WARNING - No 'periods' found for rotation: Rota51 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,578 - WARNING - No 'periods' found for rotation: Rota52 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,578 - WARNING - No 'periods' found for rotation: Rota53 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,578 - WARNING - No 'periods' found for rotation: Rota54 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,578 - WARNING - No 'periods' found for rotation: Rota55 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,578 - WARNING - No 'periods' found for rotation: Rota56 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,578 - WARNING - No 'periods' found for rotation: Rota57 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,578 - WARNING - No 'periods' found for rotation: Rota58 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,578 - WARNING - No 'periods' found for rotation: Rota59 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,578 - WARNING - No 'periods' found for rotation: Rota60 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,578 - WARNING - No 'periods' found for rotation: Rota61 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,578 - WARNING - No 'periods' found for rotation: Rota62 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,578 - WARNING - No 'periods' found for rotation: Rota63 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,578 - WARNING - No 'periods' found for rotation: Rota64 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,578 - WARNING - No 'periods' found for rotation: Rota65 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,578 - WARNING - No 'periods' found for rotation: Rota66 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,578 - WARNING - No 'periods' found for rotation: Rota67 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,578 - WARNING - No 'periods' found for rotation: Rota68 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,578 - WARNING - No 'periods' found for rotation: Rota69 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,578 - WARNING - No 'periods' found for rotation: Rota70 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,578 - WARNING - No 'periods' found for rotation: Rota71 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,578 - WARNING - No 'periods' found for rotation: Rota72 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,578 - WARNING - No 'periods' found for rotation: Rota73 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,579 - WARNING - No 'periods' found for rotation: Rota74 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,579 - WARNING - No 'periods' found for rotation: Rota75 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,579 - WARNING - No 'periods' found for rotation: Rota76 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,579 - WARNING - No 'periods' found for rotation: Rota77 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,579 - WARNING - No 'periods' found for rotation: Rota78 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,579 - WARNING - No 'periods' found for rotation: Rota79 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,579 - WARNING - No 'periods' found for rotation: Rota80 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,579 - WARNING - No 'periods' found for rotation: Rota81 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,579 - WARNING - No 'periods' found for rotation: Rota82 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,579 - WARNING - No 'periods' found for rotation: Rota83 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,579 - WARNING - No 'periods' found for rotation: Rota84 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,579 - WARNING - No 'periods' found for rotation: Rota85 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,579 - WARNING - No 'periods' found for rotation: Rota86 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,579 - WARNING - No 'periods' found for rotation: Rota87 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,579 - WARNING - No 'periods' found for rotation: Rota88 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,579 - WARNING - No 'periods' found for rotation: Rota89 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,579 - WARNING - No 'periods' found for rotation: Rota90 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,579 - WARNING - No 'periods' found for rotation: Rota91 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,579 - WARNING - No 'periods' found for rotation: Rota92 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,579 - WARNING - No 'periods' found for rotation: Rota93 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,579 - WARNING - No 'periods' found for rotation: Rota94 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,579 - WARNING - No 'periods' found for rotation: Rota95 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,579 - WARNING - No 'periods' found for rotation: Rota96 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,579 - WARNING - No 'periods' found for rotation: Rota97 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,579 - WARNING - No 'periods' found for rotation: Rota98 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,579 - WARNING - No 'periods' found for rotation: Rota99 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,579 - WARNING - No 'periods' found for rotation: Rota100 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,579 - WARNING - No 'periods' found for rotation: Rota101 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,579 - WARNING - No 'periods' found for rotation: Rota102 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,579 - WARNING - No 'periods' found for rotation: Rota103 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,579 - WARNING - No 'periods' found for rotation: Rota104 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,579 - WARNING - No 'periods' found for rotation: Rota105 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,579 - WARNING - No 'periods' found for rotation: Rota106 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,579 - WARNING - No 'periods' found for rotation: Rota107 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,579 - WARNING - No 'periods' found for rotation: Rota108 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,579 - WARNING - No 'periods' found for rotation: Rota109 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,579 - WARNING - No 'periods' found for rotation: Rota110 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,579 - WARNING - No 'periods' found for rotation: Rota111 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,579 - WARNING - No 'periods' found for rotation: Rota112 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,579 - WARNING - No 'periods' found for rotation: Rota113 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,579 - WARNING - No 'periods' found for rotation: Rota114 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,580 - WARNING - No 'periods' found for rotation: Rota115 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,580 - WARNING - No 'periods' found for rotation: Rota116 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,580 - WARNING - No 'periods' found for rotation: Rota117 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,580 - WARNING - No 'periods' found for rotation: Rota118 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,580 - WARNING - No 'periods' found for rotation: Rota119 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,580 - WARNING - No 'periods' found for rotation: Rota120 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,580 - WARNING - No 'periods' found for rotation: Rota122 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,580 - WARNING - No 'periods' found for rotation: Rota123 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,580 - WARNING - No 'periods' found for rotation: Rota124 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,580 - WARNING - No 'periods' found for rotation: Rota125 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,580 - WARNING - No 'periods' found for rotation: Rota126 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,580 - WARNING - No 'periods' found for rotation: Rota127 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,580 - WARNING - No 'periods' found for rotation: Rota128 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,580 - WARNING - No 'periods' found for rotation: Rota129 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,580 - WARNING - No 'periods' found for rotation: Rota130 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,580 - WARNING - No 'periods' found for rotation: Rota131 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,580 - WARNING - No 'periods' found for rotation: Rota132 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,580 - WARNING - No 'periods' found for rotation: Rota133 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,580 - WARNING - No 'periods' found for rotation: Rota134 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,580 - WARNING - No 'periods' found for rotation: Rota135 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,580 - WARNING - No 'periods' found for rotation: Rota136 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,580 - WARNING - No 'periods' found for rotation: Rota137 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,580 - WARNING - No 'periods' found for rotation: Rota138 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,580 - WARNING - No 'periods' found for rotation: Rota139 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,580 - WARNING - No 'periods' found for rotation: Rota140 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,580 - WARNING - No 'periods' found for rotation: Rota141 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,580 - WARNING - No 'periods' found for rotation: Rota142 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,580 - WARNING - No 'periods' found for rotation: Rota143 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,580 - WARNING - No 'periods' found for rotation: Rota144 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,580 - WARNING - No 'periods' found for rotation: Rota145 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,580 - WARNING - No 'periods' found for rotation: Rota146 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,580 - WARNING - No 'periods' found for rotation: Rota147 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,580 - WARNING - No 'periods' found for rotation: Rota148 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,580 - WARNING - No 'periods' found for rotation: Rota149 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,580 - WARNING - No 'periods' found for rotation: Rota150 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,580 - WARNING - No 'periods' found for rotation: Rota151 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,580 - WARNING - No 'periods' found for rotation: Rota152 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,580 - WARNING - No 'periods' found for rotation: Rota153 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,581 - WARNING - No 'periods' found for rotation: Rota154 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,581 - WARNING - No 'periods' found for rotation: Rota155 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,581 - WARNING - No 'periods' found for rotation: Rota156 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,581 - WARNING - No 'periods' found for rotation: Rota161 in Schedule: SaaS Off Hour On-Call Support IN
+2024-10-03 11:58:12,832 - INFO - Fetching data for schedule ID: 765872fe-16f0-40bd-b41c-79a1d19757b6...
+2024-10-03 11:58:13,347 - INFO - Data fetched for schedule ID: 765872fe-16f0-40bd-b41c-79a1d19757b6.
+2024-10-03 11:58:13,348 - WARNING - No 'periods' found for rotation: Rota1 in Schedule: SaaS Qtr End Support Boomi IN
+2024-10-03 11:58:13,348 - WARNING - No 'periods' found for rotation: Rota2 in Schedule: SaaS Qtr End Support Boomi IN
+2024-10-03 11:58:13,348 - WARNING - No 'periods' found for rotation: Rota3 in Schedule: SaaS Qtr End Support Boomi IN
+2024-10-03 11:58:13,348 - WARNING - No 'periods' found for rotation: Rota4 in Schedule: SaaS Qtr End Support Boomi IN
+2024-10-03 11:58:13,348 - WARNING - No 'periods' found for rotation: Rota5 in Schedule: SaaS Qtr End Support Boomi IN
+2024-10-03 11:58:13,348 - WARNING - No 'periods' found for rotation: Rota6 in Schedule: SaaS Qtr End Support Boomi IN
+2024-10-03 11:58:13,348 - WARNING - No 'periods' found for rotation: Rota7 in Schedule: SaaS Qtr End Support Boomi IN
+2024-10-03 11:58:13,348 - WARNING - No 'periods' found for rotation: Rota8 in Schedule: SaaS Qtr End Support Boomi IN
+2024-10-03 11:58:13,348 - WARNING - No 'periods' found for rotation: Rota9 in Schedule: SaaS Qtr End Support Boomi IN
+2024-10-03 11:58:13,348 - WARNING - No 'periods' found for rotation: Rota10 in Schedule: SaaS Qtr End Support Boomi IN
+2024-10-03 11:58:13,348 - WARNING - No 'periods' found for rotation: Rota11 in Schedule: SaaS Qtr End Support Boomi IN
+2024-10-03 11:58:13,348 - WARNING - No 'periods' found for rotation: Rota12 in Schedule: SaaS Qtr End Support Boomi IN
+2024-10-03 11:58:13,348 - WARNING - No 'periods' found for rotation: Rota13 in Schedule: SaaS Qtr End Support Boomi IN
+2024-10-03 11:58:13,348 - WARNING - No 'periods' found for rotation: Rota14 in Schedule: SaaS Qtr End Support Boomi IN
+2024-10-03 11:58:13,348 - WARNING - No 'periods' found for rotation: Rota15 in Schedule: SaaS Qtr End Support Boomi IN
+2024-10-03 11:58:13,348 - WARNING - No 'periods' found for rotation: Rota16 in Schedule: SaaS Qtr End Support Boomi IN
+2024-10-03 11:58:13,348 - WARNING - No 'periods' found for rotation: Rota17 in Schedule: SaaS Qtr End Support Boomi IN
+2024-10-03 11:58:13,348 - WARNING - No 'periods' found for rotation: Rota18 in Schedule: SaaS Qtr End Support Boomi IN
+2024-10-03 11:58:13,348 - WARNING - No 'periods' found for rotation: Rota19 in Schedule: SaaS Qtr End Support Boomi IN
+2024-10-03 11:58:13,348 - WARNING - No 'periods' found for rotation: Rota20 in Schedule: SaaS Qtr End Support Boomi IN
+2024-10-03 11:58:13,600 - INFO - Fetching data for schedule ID: 77ae620b-eac0-47f7-b10d-fe8ac925b234...
+2024-10-03 11:58:14,126 - INFO - Data fetched for schedule ID: 77ae620b-eac0-47f7-b10d-fe8ac925b234.
+2024-10-03 11:58:14,378 - INFO - Fetching data for schedule ID: 77cd7132-61aa-46fa-b6b2-5a860602ff9e...
+2024-10-03 11:58:14,952 - INFO - Data fetched for schedule ID: 77cd7132-61aa-46fa-b6b2-5a860602ff9e.
+2024-10-03 11:58:15,211 - INFO - Fetching data for schedule ID: 78067b81-7c46-4b94-a447-c6c03361c43c...
+2024-10-03 11:58:16,124 - INFO - Data fetched for schedule ID: 78067b81-7c46-4b94-a447-c6c03361c43c.
+2024-10-03 11:58:16,383 - INFO - Fetching data for schedule ID: 78a8c13d-3a5b-4e0c-a2e6-ef6c6b794511...
+2024-10-03 11:58:16,891 - INFO - Data fetched for schedule ID: 78a8c13d-3a5b-4e0c-a2e6-ef6c6b794511.
+2024-10-03 11:58:17,146 - INFO - Fetching data for schedule ID: 78bf27b9-aa96-4204-bae7-018060eac1f7...
+2024-10-03 11:58:17,876 - INFO - Data fetched for schedule ID: 78bf27b9-aa96-4204-bae7-018060eac1f7.
+2024-10-03 11:58:18,133 - INFO - Fetching data for schedule ID: 78e2724c-0dab-46a8-882e-ca308370e9c8...
+2024-10-03 11:58:18,759 - INFO - Data fetched for schedule ID: 78e2724c-0dab-46a8-882e-ca308370e9c8.
+2024-10-03 11:58:19,018 - INFO - Fetching data for schedule ID: 7ab88e6c-95ef-443f-bc48-5d4c8ff373cd...
+2024-10-03 11:58:19,616 - INFO - Data fetched for schedule ID: 7ab88e6c-95ef-443f-bc48-5d4c8ff373cd.
+2024-10-03 11:58:19,875 - INFO - Fetching data for schedule ID: 7abeab0e-f30d-454c-9d11-1f96ddf15794...
+2024-10-03 11:58:20,475 - INFO - Data fetched for schedule ID: 7abeab0e-f30d-454c-9d11-1f96ddf15794.
+2024-10-03 11:58:20,736 - INFO - Fetching data for schedule ID: 7d75f17e-0cf5-406e-ae6a-3a475eb5427e...
+2024-10-03 11:58:21,355 - INFO - Data fetched for schedule ID: 7d75f17e-0cf5-406e-ae6a-3a475eb5427e.
+2024-10-03 11:58:21,616 - INFO - Fetching data for schedule ID: 7d8118f4-2b34-40dd-a8ad-4facd91aa08d...
+2024-10-03 11:58:22,143 - INFO - Data fetched for schedule ID: 7d8118f4-2b34-40dd-a8ad-4facd91aa08d.
+2024-10-03 11:58:22,399 - INFO - Fetching data for schedule ID: 7dc0e60f-8296-4f62-98d8-b6c4f4ffdab0...
+2024-10-03 11:58:22,921 - INFO - Data fetched for schedule ID: 7dc0e60f-8296-4f62-98d8-b6c4f4ffdab0.
+2024-10-03 11:58:23,177 - INFO - Fetching data for schedule ID: 7de6ad57-f87c-49a9-b03e-42bedc193231...
+2024-10-03 11:58:23,746 - INFO - Data fetched for schedule ID: 7de6ad57-f87c-49a9-b03e-42bedc193231.
+2024-10-03 11:58:24,002 - INFO - Fetching data for schedule ID: 7de753c7-b113-4150-88b6-48b7c479421f...
+2024-10-03 11:58:24,624 - INFO - Data fetched for schedule ID: 7de753c7-b113-4150-88b6-48b7c479421f.
+2024-10-03 11:58:24,880 - INFO - Fetching data for schedule ID: 7f0bce9e-c6d3-4a82-8bf4-2c893a5bca83...
+2024-10-03 11:58:25,402 - INFO - Data fetched for schedule ID: 7f0bce9e-c6d3-4a82-8bf4-2c893a5bca83.
+2024-10-03 11:58:25,656 - INFO - Fetching data for schedule ID: 7fb46f7a-2533-4b85-b2c1-60f9449b34e0...
+2024-10-03 11:58:26,323 - INFO - Data fetched for schedule ID: 7fb46f7a-2533-4b85-b2c1-60f9449b34e0.
+2024-10-03 11:58:26,582 - INFO - Fetching data for schedule ID: 803709d7-7982-4972-9378-40d85d4d3f3e...
+2024-10-03 11:58:27,226 - INFO - Data fetched for schedule ID: 803709d7-7982-4972-9378-40d85d4d3f3e.
+2024-10-03 11:58:27,486 - INFO - Fetching data for schedule ID: 806916ee-67e1-4608-bdaa-bac12fac1c96...
+2024-10-03 11:58:28,073 - INFO - Data fetched for schedule ID: 806916ee-67e1-4608-bdaa-bac12fac1c96.
+2024-10-03 11:58:28,327 - INFO - Fetching data for schedule ID: 806c7f93-8a2f-4562-9719-80753aab9a02...
+2024-10-03 11:58:29,072 - INFO - Data fetched for schedule ID: 806c7f93-8a2f-4562-9719-80753aab9a02.
+2024-10-03 11:58:29,328 - INFO - Fetching data for schedule ID: 81acad77-0e59-4eb4-9824-44c1eb1d7cb7...
+2024-10-03 11:58:29,819 - INFO - Data fetched for schedule ID: 81acad77-0e59-4eb4-9824-44c1eb1d7cb7.
+2024-10-03 11:58:30,076 - INFO - Fetching data for schedule ID: 8203d512-e4f6-4fee-9c83-46a456320b28...
+2024-10-03 11:58:30,648 - INFO - Data fetched for schedule ID: 8203d512-e4f6-4fee-9c83-46a456320b28.
+2024-10-03 11:58:30,906 - INFO - Fetching data for schedule ID: 824f1b77-872c-44a2-9828-1662a3d9b905...
+2024-10-03 11:58:31,568 - INFO - Data fetched for schedule ID: 824f1b77-872c-44a2-9828-1662a3d9b905.
+2024-10-03 11:58:31,828 - INFO - Fetching data for schedule ID: 832caf64-eb2f-4d7e-9444-45867e378cac...
+2024-10-03 11:58:32,368 - INFO - Data fetched for schedule ID: 832caf64-eb2f-4d7e-9444-45867e378cac.
+2024-10-03 11:58:32,629 - INFO - Fetching data for schedule ID: 8371cb4b-499a-484e-8467-2221c330fe49...
+2024-10-03 11:58:33,171 - INFO - Data fetched for schedule ID: 8371cb4b-499a-484e-8467-2221c330fe49.
+2024-10-03 11:58:33,427 - INFO - Fetching data for schedule ID: 83e74426-49bd-45a0-9c26-f8f118e81b4c...
+2024-10-03 11:58:34,169 - INFO - Data fetched for schedule ID: 83e74426-49bd-45a0-9c26-f8f118e81b4c.
+2024-10-03 11:58:34,427 - INFO - Fetching data for schedule ID: 8446effc-7e12-44c2-869a-e3110a050c18...
+2024-10-03 11:58:35,150 - INFO - Data fetched for schedule ID: 8446effc-7e12-44c2-869a-e3110a050c18.
+2024-10-03 11:58:35,406 - INFO - Fetching data for schedule ID: 87b767df-a5cf-4f52-9a83-c3bff6bc5d04...
+2024-10-03 11:58:36,028 - INFO - Data fetched for schedule ID: 87b767df-a5cf-4f52-9a83-c3bff6bc5d04.
+2024-10-03 11:58:36,285 - INFO - Fetching data for schedule ID: 884717a2-8ce8-44ed-ab0b-667781677455...
+2024-10-03 11:58:36,887 - INFO - Data fetched for schedule ID: 884717a2-8ce8-44ed-ab0b-667781677455.
+2024-10-03 11:58:37,150 - INFO - Fetching data for schedule ID: 889f48cd-3c61-4cac-8a59-ba7fec4ea902...
+2024-10-03 11:58:37,836 - INFO - Data fetched for schedule ID: 889f48cd-3c61-4cac-8a59-ba7fec4ea902.
+2024-10-03 11:58:38,100 - INFO - Fetching data for schedule ID: 88d5bba1-10e5-48a9-8a02-cffa2e90d8db...
+2024-10-03 11:58:38,586 - INFO - Data fetched for schedule ID: 88d5bba1-10e5-48a9-8a02-cffa2e90d8db.
+2024-10-03 11:58:38,842 - INFO - Fetching data for schedule ID: 890a2f0a-6a0d-4997-bfa6-b320aacaa762...
+2024-10-03 11:58:39,462 - INFO - Data fetched for schedule ID: 890a2f0a-6a0d-4997-bfa6-b320aacaa762.
+2024-10-03 11:58:39,718 - INFO - Fetching data for schedule ID: 8a598e72-ba0b-4ed9-b93e-b374bdf0c45b...
+2024-10-03 11:58:40,280 - INFO - Data fetched for schedule ID: 8a598e72-ba0b-4ed9-b93e-b374bdf0c45b.
+2024-10-03 11:58:40,535 - INFO - Fetching data for schedule ID: 8ad7d9a2-37ae-405a-b5a4-f02baa7fd8bf...
+2024-10-03 11:58:41,129 - INFO - Data fetched for schedule ID: 8ad7d9a2-37ae-405a-b5a4-f02baa7fd8bf.
+2024-10-03 11:58:41,387 - INFO - Fetching data for schedule ID: 8bdd7f43-5bf0-42cb-8798-6938cbf48a73...
+2024-10-03 11:58:41,915 - INFO - Data fetched for schedule ID: 8bdd7f43-5bf0-42cb-8798-6938cbf48a73.
+2024-10-03 11:58:42,168 - INFO - Fetching data for schedule ID: 8c4ff722-3587-4dd1-8312-93cf756a1381...
+2024-10-03 11:58:42,837 - INFO - Data fetched for schedule ID: 8c4ff722-3587-4dd1-8312-93cf756a1381.
+2024-10-03 11:58:43,094 - INFO - Fetching data for schedule ID: 8e1dd412-6ffb-4899-b073-ad1f562d0e93...
+2024-10-03 11:58:43,787 - INFO - Data fetched for schedule ID: 8e1dd412-6ffb-4899-b073-ad1f562d0e93.
+2024-10-03 11:58:44,047 - INFO - Fetching data for schedule ID: 8eb6035e-fa92-4815-a03e-6d2c44fc8668...
+2024-10-03 11:58:44,648 - INFO - Data fetched for schedule ID: 8eb6035e-fa92-4815-a03e-6d2c44fc8668.
+2024-10-03 11:58:44,906 - INFO - Fetching data for schedule ID: 8f0736ec-a5e6-4f93-985d-cf0f4719ef60...
+2024-10-03 11:58:45,642 - INFO - Data fetched for schedule ID: 8f0736ec-a5e6-4f93-985d-cf0f4719ef60.
+2024-10-03 11:58:45,651 - WARNING - No 'periods' found for rotation: IST-Shadow in Schedule: 01 NDB Service - Generalist
+2024-10-03 11:58:45,906 - INFO - Fetching data for schedule ID: 9020037d-e518-4274-945a-de2620fb1dd9...
+2024-10-03 11:58:46,600 - INFO - Data fetched for schedule ID: 9020037d-e518-4274-945a-de2620fb1dd9.
+2024-10-03 11:58:46,858 - INFO - Fetching data for schedule ID: 90acaf8f-8878-4984-b632-4202c5d48b63...
+2024-10-03 11:58:47,575 - INFO - Data fetched for schedule ID: 90acaf8f-8878-4984-b632-4202c5d48b63.
+2024-10-03 11:58:47,835 - INFO - Fetching data for schedule ID: 90bc7bbe-3aab-4c34-9a29-e1a31dc3bd62...
+2024-10-03 11:58:48,366 - INFO - Data fetched for schedule ID: 90bc7bbe-3aab-4c34-9a29-e1a31dc3bd62.
+2024-10-03 11:58:48,625 - INFO - Fetching data for schedule ID: 9261d8b0-808b-4865-a46d-e41c3b4f17be...
+2024-10-03 11:58:49,141 - INFO - Data fetched for schedule ID: 9261d8b0-808b-4865-a46d-e41c3b4f17be.
+2024-10-03 11:58:49,399 - INFO - Fetching data for schedule ID: 928594cb-4471-43ef-8b2c-e474fa7828c7...
+2024-10-03 11:58:49,934 - INFO - Data fetched for schedule ID: 928594cb-4471-43ef-8b2c-e474fa7828c7.
+2024-10-03 11:58:50,187 - INFO - Fetching data for schedule ID: 9399a78e-b3de-4170-a945-235916d89df2...
+2024-10-03 11:58:50,966 - INFO - Data fetched for schedule ID: 9399a78e-b3de-4170-a945-235916d89df2.
+2024-10-03 11:58:51,223 - INFO - Fetching data for schedule ID: 95b0e178-b9a7-4015-af31-c73bbf5ba19e...
+2024-10-03 11:58:51,785 - INFO - Data fetched for schedule ID: 95b0e178-b9a7-4015-af31-c73bbf5ba19e.
+2024-10-03 11:58:51,787 - WARNING - No 'periods' found for rotation: Federal Tier 2 Rotation in Schedule: Federal Tier 2 Schedule
+2024-10-03 11:58:52,038 - INFO - Fetching data for schedule ID: 961468c8-8ca7-4975-b8e1-a37004f4dba1...
+2024-10-03 11:58:52,601 - INFO - Data fetched for schedule ID: 961468c8-8ca7-4975-b8e1-a37004f4dba1.
+2024-10-03 11:58:52,863 - INFO - Fetching data for schedule ID: 9631ce92-3197-4c1d-bcd7-5cd3b4b0d95b...
+2024-10-03 11:58:53,365 - INFO - Data fetched for schedule ID: 9631ce92-3197-4c1d-bcd7-5cd3b4b0d95b.
+2024-10-03 11:58:53,620 - INFO - Fetching data for schedule ID: 966d3bb8-024c-4c07-99d3-7f29386d4c56...
+2024-10-03 11:58:54,247 - INFO - Data fetched for schedule ID: 966d3bb8-024c-4c07-99d3-7f29386d4c56.
+2024-10-03 11:58:54,506 - INFO - Fetching data for schedule ID: 96b95658-fb87-4631-bb55-6b74ae0a3d18...
+2024-10-03 11:58:55,099 - INFO - Data fetched for schedule ID: 96b95658-fb87-4631-bb55-6b74ae0a3d18.
+2024-10-03 11:58:55,358 - INFO - Fetching data for schedule ID: 9719f086-0010-488d-8adc-b05444795d2a...
+2024-10-03 11:58:56,019 - INFO - Data fetched for schedule ID: 9719f086-0010-488d-8adc-b05444795d2a.
+2024-10-03 11:58:56,020 - WARNING - No 'periods' found for rotation: Dec in Schedule: Japan SRE_schedule
+2024-10-03 11:58:56,020 - WARNING - No 'periods' found for rotation: Jan in Schedule: Japan SRE_schedule
+2024-10-03 11:58:56,020 - WARNING - No 'periods' found for rotation: Feb - Apr24 in Schedule: Japan SRE_schedule
+2024-10-03 11:58:56,020 - WARNING - No 'periods' found for rotation: May-Jul in Schedule: Japan SRE_schedule
+2024-10-03 11:58:56,274 - INFO - Fetching data for schedule ID: 97ac0afe-f094-4dfa-985d-717e6321a22e...
+2024-10-03 11:58:56,937 - INFO - Data fetched for schedule ID: 97ac0afe-f094-4dfa-985d-717e6321a22e.
+2024-10-03 11:58:57,203 - INFO - Fetching data for schedule ID: 982b0958-8f94-4ba6-a53e-6a8e74753794...
+2024-10-03 11:58:57,945 - INFO - Data fetched for schedule ID: 982b0958-8f94-4ba6-a53e-6a8e74753794.
+2024-10-03 11:58:58,201 - INFO - Fetching data for schedule ID: 9872b93c-e86a-4b0e-9a05-d993ebbd4bfd...
+2024-10-03 11:58:58,698 - INFO - Data fetched for schedule ID: 9872b93c-e86a-4b0e-9a05-d993ebbd4bfd.
+2024-10-03 11:58:58,953 - INFO - Fetching data for schedule ID: 9a97c55a-13e2-4514-957d-8619fdb6fb65...
+2024-10-03 11:58:59,480 - INFO - Data fetched for schedule ID: 9a97c55a-13e2-4514-957d-8619fdb6fb65.
+2024-10-03 11:58:59,745 - INFO - Fetching data for schedule ID: 9b4d431f-20d9-4d46-a243-b951489e0601...
+2024-10-03 11:59:00,269 - INFO - Data fetched for schedule ID: 9b4d431f-20d9-4d46-a243-b951489e0601.
+2024-10-03 11:59:00,523 - INFO - Fetching data for schedule ID: 9c054876-baad-46ab-931e-727dc38ae0b2...
+2024-10-03 11:59:01,259 - INFO - Data fetched for schedule ID: 9c054876-baad-46ab-931e-727dc38ae0b2.
+2024-10-03 11:59:01,523 - INFO - Fetching data for schedule ID: 9cc8cbf2-3286-47a3-bc3c-e5f23e7d5130...
+2024-10-03 11:59:02,226 - INFO - Data fetched for schedule ID: 9cc8cbf2-3286-47a3-bc3c-e5f23e7d5130.
+2024-10-03 11:59:02,485 - INFO - Fetching data for schedule ID: 9ebdccb3-c778-483d-9b5d-33abf7e5319a...
+2024-10-03 13:07:25,488 - INFO - Processing user inderraj.singh@nutanix.com.
+2024-10-03 13:07:25,489 - INFO - Fetching user ID for inderraj.singh@nutanix.com.
+2024-10-03 13:07:26,217 - INFO - User ID for inderraj.singh@nutanix.com is 487651f0-426c-49fe-a8af-3ce533f0cc73.
+2024-10-03 13:07:26,218 - INFO - Fetching teams for user inderraj.singh@nutanix.com.
+2024-10-03 13:07:26,717 - INFO - User inderraj.singh@nutanix.com does not belong to any teams.
+2024-10-03 13:07:26,717 - INFO - Changing role for user ID 487651f0-426c-49fe-a8af-3ce533f0cc73 to Stakeholder.
+2024-10-03 13:07:27,213 - INFO - Successfully changed role for user ID 487651f0-426c-49fe-a8af-3ce533f0cc73 to Stakeholder.
+2024-10-03 13:10:13,779 - INFO - Processing user santhosh.r@nutanix.com.
+2024-10-03 13:10:13,779 - INFO - Fetching user ID for santhosh.r@nutanix.com.
+2024-10-03 13:10:14,461 - INFO - User ID for santhosh.r@nutanix.com is 5714bdec-5684-43ed-a7b3-b205fb0c507b.
+2024-10-03 13:10:14,462 - INFO - Fetching teams for user santhosh.r@nutanix.com.
+2024-10-03 13:10:14,949 - INFO - User santhosh.r@nutanix.com belongs to the following teams: CDP-DR
+2024-10-03 13:10:14,949 - INFO - Removing user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b from team ID 1dd9eece-bd46-43f6-b59d-8cd6549f0cb9.
+2024-10-03 13:10:15,658 - INFO - Successfully removed user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b from team ID 1dd9eece-bd46-43f6-b59d-8cd6549f0cb9.
+2024-10-03 13:10:15,658 - INFO - Changing role for user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b to Stakeholder.
+2024-10-03 13:10:16,514 - ERROR - Error changing role for user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b: 428, {"message":"User cannot be modified. Please remove it from schedules: [CDP-DR Tier1]","took":0.377,"requestId":"a695209b-8f9b-4eb3-b16f-87a69e773326"}
+2024-10-03 13:20:12,160 - INFO - Processing user santhosh.r@nutanix.com.
+2024-10-03 13:20:12,160 - INFO - Fetching user ID for santhosh.r@nutanix.com.
+2024-10-03 13:20:12,840 - INFO - User ID for santhosh.r@nutanix.com is 5714bdec-5684-43ed-a7b3-b205fb0c507b.
+2024-10-03 13:20:12,841 - INFO - Fetching teams for user santhosh.r@nutanix.com.
+2024-10-03 13:20:13,335 - INFO - User santhosh.r@nutanix.com does not belong to any teams.
+2024-10-03 13:20:13,335 - INFO - Fetching schedules for user santhosh.r@nutanix.com.
+2024-10-03 13:21:33,486 - INFO - Processing user santhosh.r@nutanix.com.
+2024-10-03 13:21:33,486 - INFO - Fetching user ID for santhosh.r@nutanix.com.
+2024-10-03 13:21:34,179 - INFO - User ID for santhosh.r@nutanix.com is 5714bdec-5684-43ed-a7b3-b205fb0c507b.
+2024-10-03 13:21:34,180 - INFO - Fetching teams for user santhosh.r@nutanix.com.
+2024-10-03 13:21:34,699 - INFO - User santhosh.r@nutanix.com does not belong to any teams.
+2024-10-03 13:21:34,699 - INFO - Fetching schedules for user santhosh.r@nutanix.com.
+2024-10-03 13:21:35,483 - INFO - User santhosh.r@nutanix.com belongs to the following schedules: CDP-DR Tier1
+2024-10-03 13:21:35,484 - INFO - Removing user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b from team ID 78067b81-7c46-4b94-a447-c6c03361c43c.
+2024-10-03 13:21:35,975 - ERROR - Error removing user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b from team ID 78067b81-7c46-4b94-a447-c6c03361c43c: 404, {"message":"No team exists with id [78067b81-7c46-4b94-a447-c6c03361c43c]","took":0.004,"requestId":"66bf4512-e944-4870-81fc-b88d021cad23"}
+2024-10-03 13:21:35,976 - INFO - Changing role for user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b to Stakeholder.
+2024-10-03 13:21:36,822 - ERROR - Error changing role for user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b: 428, {"message":"User cannot be modified. Please remove it from schedules: [CDP-DR Tier1]","took":0.366,"requestId":"800f9743-47e9-4fb8-8e74-d4790df3d715"}
+2024-10-03 13:24:05,696 - INFO - Processing user santhosh.r@nutanix.com.
+2024-10-03 13:24:05,698 - INFO - Fetching user ID for santhosh.r@nutanix.com.
+2024-10-03 13:24:06,392 - INFO - User ID for santhosh.r@nutanix.com is 5714bdec-5684-43ed-a7b3-b205fb0c507b.
+2024-10-03 13:24:06,392 - INFO - Fetching teams for user santhosh.r@nutanix.com.
+2024-10-03 13:24:06,874 - INFO - User santhosh.r@nutanix.com does not belong to any teams.
+2024-10-03 13:24:06,875 - INFO - Fetching schedules for user santhosh.r@nutanix.com.
+2024-10-03 13:24:07,673 - INFO - User santhosh.r@nutanix.com belongs to the following schedules: CDP-DR Tier1
+2024-10-03 13:24:07,674 - INFO - Removing user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b from team ID 78067b81-7c46-4b94-a447-c6c03361c43c.
+2024-10-03 13:24:08,167 - ERROR - Error removing user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b from team ID 78067b81-7c46-4b94-a447-c6c03361c43c: 404, {"message":"No team exists with id [78067b81-7c46-4b94-a447-c6c03361c43c]","took":0.005,"requestId":"c43dc996-92c0-4e0a-9c13-bfb05431a91f"}
+2024-10-03 13:24:08,168 - INFO - Changing role for user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b to Stakeholder.
+2024-10-03 13:24:08,931 - ERROR - Error changing role for user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b: 428, {"message":"User cannot be modified. Please remove it from schedules: [CDP-DR Tier1]","took":0.274,"requestId":"0d60024a-c2b7-4759-910e-fd6330112aed"}
+2024-10-03 13:25:19,370 - INFO - Processing user santhosh.r@nutanix.com.
+2024-10-03 13:25:19,370 - INFO - Fetching user ID for santhosh.r@nutanix.com.
+2024-10-03 13:25:19,873 - INFO - User ID for santhosh.r@nutanix.com is 5714bdec-5684-43ed-a7b3-b205fb0c507b.
+2024-10-03 13:25:19,873 - INFO - Fetching teams for user santhosh.r@nutanix.com.
+2024-10-03 13:25:20,340 - INFO - User santhosh.r@nutanix.com does not belong to any teams.
+2024-10-03 13:25:20,340 - INFO - Fetching schedules for user santhosh.r@nutanix.com.
+2024-10-03 13:25:22,728 - INFO - User santhosh.r@nutanix.com belongs to the following schedules: CDP-DR Tier1
+2024-10-03 13:25:22,729 - INFO - Removing user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b from team ID 78067b81-7c46-4b94-a447-c6c03361c43c.
+2024-10-03 13:25:23,209 - ERROR - Error removing user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b from team ID 78067b81-7c46-4b94-a447-c6c03361c43c: 404, {"message":"No team exists with id [78067b81-7c46-4b94-a447-c6c03361c43c]","took":0.005,"requestId":"95bf7d0c-8d6d-45dc-b235-5a3023b4e08a"}
+2024-10-03 13:25:23,210 - INFO - Changing role for user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b to Stakeholder.
+2024-10-03 13:25:24,055 - ERROR - Error changing role for user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b: 428, {"message":"User cannot be modified. Please remove it from schedules: [CDP-DR Tier1]","took":0.358,"requestId":"437f4cbb-5df5-43dd-90bc-de814feedf7d"}
+2024-10-03 13:27:41,166 - INFO - Processing user santhosh.r@nutanix.com.
+2024-10-03 13:27:41,166 - INFO - Fetching user ID for santhosh.r@nutanix.com.
+2024-10-03 13:27:41,848 - INFO - User ID for santhosh.r@nutanix.com is 5714bdec-5684-43ed-a7b3-b205fb0c507b.
+2024-10-03 13:27:41,848 - INFO - Fetching teams for user santhosh.r@nutanix.com.
+2024-10-03 13:27:42,333 - INFO - User santhosh.r@nutanix.com does not belong to any teams.
+2024-10-03 13:27:42,334 - INFO - Fetching schedules for user santhosh.r@nutanix.com.
+2024-10-03 13:27:43,163 - INFO - User santhosh.r@nutanix.com belongs to the following schedules: CDP-DR Tier1
+2024-10-03 13:27:43,163 - INFO - Removing user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b from team ID 78067b81-7c46-4b94-a447-c6c03361c43c.
+2024-10-03 13:27:43,631 - ERROR - Error removing user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b from team ID 78067b81-7c46-4b94-a447-c6c03361c43c: 404, {"message":"No team exists with id [78067b81-7c46-4b94-a447-c6c03361c43c]","took":0.005,"requestId":"feae5ba0-2453-4674-9522-d273bd4d97b3"}
+2024-10-03 13:27:43,632 - INFO - Changing role for user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b to Stakeholder.
+2024-10-03 13:27:44,460 - ERROR - Error changing role for user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b: 428, {"message":"User cannot be modified. Please remove it from schedules: [CDP-DR Tier1]","took":0.33,"requestId":"755c7dd3-69cb-4a5a-930c-b876162f967e"}
+2024-10-03 13:29:39,587 - INFO - Processing user santhosh.r@nutanix.com.
+2024-10-03 13:29:39,588 - INFO - Fetching user ID for santhosh.r@nutanix.com.
+2024-10-03 13:29:40,267 - INFO - User ID for santhosh.r@nutanix.com is 5714bdec-5684-43ed-a7b3-b205fb0c507b.
+2024-10-03 13:29:40,267 - INFO - Fetching teams for user santhosh.r@nutanix.com.
+2024-10-03 13:29:40,764 - INFO - User santhosh.r@nutanix.com does not belong to any teams.
+2024-10-03 13:29:40,765 - INFO - No teams found for user santhosh.r@nutanix.com. Skipping deletion.
+2024-10-03 13:32:04,962 - INFO - Processing user santhosh.r@nutanix.com.
+2024-10-03 13:32:04,962 - INFO - Fetching user ID for santhosh.r@nutanix.com.
+2024-10-03 13:32:05,652 - INFO - User ID for santhosh.r@nutanix.com is 5714bdec-5684-43ed-a7b3-b205fb0c507b.
+2024-10-03 13:32:05,652 - INFO - Fetching teams for user santhosh.r@nutanix.com.
+2024-10-03 13:32:06,145 - INFO - User santhosh.r@nutanix.com does not belong to any teams.
+2024-10-03 13:32:06,145 - INFO - No teams found for user santhosh.r@nutanix.com. Skipping deletion for teams.
+2024-10-03 13:32:06,145 - INFO - Fetching schedules for user santhosh.r@nutanix.com.
+2024-10-03 13:32:06,916 - INFO - User santhosh.r@nutanix.com belongs to the following schedules: CDP-DR Tier1
+2024-10-03 13:32:06,917 - INFO - Removing user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b from team ID 78067b81-7c46-4b94-a447-c6c03361c43c.
+2024-10-03 13:32:07,401 - ERROR - Error removing user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b from team ID 78067b81-7c46-4b94-a447-c6c03361c43c: 404, {"message":"No team exists with id [78067b81-7c46-4b94-a447-c6c03361c43c]","took":0.017,"requestId":"0d342a1b-1520-430e-a3ae-fe6a064272a7"}
+2024-10-03 13:32:07,401 - INFO - Changing role for user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b to Stakeholder.
+2024-10-03 13:32:08,162 - ERROR - Error changing role for user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b: 428, {"message":"User cannot be modified. Please remove it from schedules: [CDP-DR Tier1]","took":0.273,"requestId":"5e013be3-10c9-4a88-82fb-7d7537d670a0"}
+2024-10-03 13:36:41,352 - INFO - Processing user santhosh.r@nutanix.com.
+2024-10-03 13:36:41,353 - INFO - Fetching user ID for santhosh.r@nutanix.com.
+2024-10-03 13:36:42,050 - INFO - User ID for santhosh.r@nutanix.com is 5714bdec-5684-43ed-a7b3-b205fb0c507b.
+2024-10-03 13:36:42,051 - INFO - Fetching teams for user santhosh.r@nutanix.com.
+2024-10-03 13:36:42,545 - INFO - User santhosh.r@nutanix.com does not belong to any teams.
+2024-10-03 13:36:42,546 - INFO - No teams found for user santhosh.r@nutanix.com. Skipping deletion for teams.
+2024-10-03 13:36:42,546 - INFO - Fetching schedules for user santhosh.r@nutanix.com.
+2024-10-03 13:36:43,405 - INFO - User santhosh.r@nutanix.com belongs to the following schedules: CDP-DR Tier1
+2024-10-03 13:36:43,406 - INFO - Removing user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b from schedule ID 78067b81-7c46-4b94-a447-c6c03361c43c.
+2024-10-03 13:36:43,886 - ERROR - Error removing user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b from schedule ID 78067b81-7c46-4b94-a447-c6c03361c43c: 404, {"message":"No team exists with id [78067b81-7c46-4b94-a447-c6c03361c43c]","took":0.004,"requestId":"c0bd6d78-67db-454c-91bc-b9fccd303dcb"}
+2024-10-03 13:38:02,419 - INFO - Processing user santhosh.r@nutanix.com.
+2024-10-03 13:38:02,420 - INFO - Fetching user ID for santhosh.r@nutanix.com.
+2024-10-03 13:38:03,098 - INFO - User ID for santhosh.r@nutanix.com is 5714bdec-5684-43ed-a7b3-b205fb0c507b.
+2024-10-03 13:38:03,098 - INFO - Fetching teams for user santhosh.r@nutanix.com.
+2024-10-03 13:38:03,598 - INFO - User santhosh.r@nutanix.com does not belong to any teams.
+2024-10-03 13:38:03,598 - INFO - No teams found for user santhosh.r@nutanix.com. Skipping deletion for teams.
+2024-10-03 13:38:03,598 - INFO - Fetching schedules for user santhosh.r@nutanix.com.
+2024-10-03 13:38:04,367 - INFO - User santhosh.r@nutanix.com belongs to the following schedules: CDP-DR Tier1
+2024-10-03 13:38:04,368 - INFO - Removing user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b from schedule ID 78067b81-7c46-4b94-a447-c6c03361c43c.
+2024-10-03 13:38:04,850 - ERROR - Error removing user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b from schedule ID 78067b81-7c46-4b94-a447-c6c03361c43c: 404, {"message":"No handler found","took":0.001,"requestId":"ecb4e25f-670a-430f-8339-1ff29c4f0e54"}
+2024-10-03 13:40:55,531 - INFO - Processing user santhosh.r@nutanix.com.
+2024-10-03 13:40:55,531 - INFO - Fetching user ID for santhosh.r@nutanix.com.
+2024-10-03 13:40:56,220 - INFO - User ID for santhosh.r@nutanix.com is 5714bdec-5684-43ed-a7b3-b205fb0c507b.
+2024-10-03 13:40:56,220 - INFO - Fetching teams for user santhosh.r@nutanix.com.
+2024-10-03 13:40:56,719 - INFO - User santhosh.r@nutanix.com does not belong to any teams.
+2024-10-03 13:40:56,720 - INFO - No teams found for user santhosh.r@nutanix.com. Skipping deletion for teams.
+2024-10-03 13:40:56,720 - INFO - Fetching schedules for user santhosh.r@nutanix.com.
+2024-10-03 13:40:57,559 - INFO - User santhosh.r@nutanix.com belongs to the following schedules: CDP-DR Tier1
+2024-10-03 13:40:57,559 - INFO - No teams found for user santhosh.r@nutanix.com. Skipping deletion for teams.
+2024-10-03 13:40:57,559 - INFO - Changing role for user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b to Stakeholder.
+2024-10-03 13:40:59,054 - ERROR - Error changing role for user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b: 428, {"message":"User cannot be modified. Please remove it from schedules: [CDP-DR Tier1]","took":1.013,"requestId":"ff2d2110-d846-4238-b874-14e2d740669e"}
+2024-10-03 13:42:05,208 - INFO - Processing user santhosh.r@nutanix.com.
+2024-10-03 13:42:05,208 - INFO - Fetching user ID for santhosh.r@nutanix.com.
+2024-10-03 13:42:05,731 - INFO - User ID for santhosh.r@nutanix.com is 5714bdec-5684-43ed-a7b3-b205fb0c507b.
+2024-10-03 13:42:05,731 - INFO - Fetching teams for user santhosh.r@nutanix.com.
+2024-10-03 13:42:06,222 - INFO - User santhosh.r@nutanix.com does not belong to any teams.
+2024-10-03 13:42:06,222 - INFO - No teams found for user santhosh.r@nutanix.com. Skipping deletion from teams.
+2024-10-03 13:42:06,223 - INFO - Fetching schedules for user santhosh.r@nutanix.com.
+2024-10-03 13:42:07,047 - INFO - User santhosh.r@nutanix.com belongs to the following schedules: CDP-DR Tier1
+2024-10-03 13:42:07,047 - INFO - Removing user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b from team ID 78067b81-7c46-4b94-a447-c6c03361c43c.
+2024-10-03 13:42:07,534 - ERROR - Error removing user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b from team ID 78067b81-7c46-4b94-a447-c6c03361c43c: 404, {"message":"No team exists with id [78067b81-7c46-4b94-a447-c6c03361c43c]","took":0.005,"requestId":"acb55936-742b-42fa-af6c-6ee05529b5df"}
+2024-10-03 13:42:07,535 - INFO - Changing role for user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b to Stakeholder.
+2024-10-03 13:42:08,428 - ERROR - Error changing role for user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b: 428, {"message":"User cannot be modified. Please remove it from schedules: [CDP-DR Tier1]","took":0.417,"requestId":"0c40375e-813f-4a7f-b0b6-4d83c971b8c2"}
+2024-10-03 13:43:11,933 - INFO - Processing user santhosh.r@nutanix.com.
+2024-10-03 13:43:11,933 - INFO - Fetching user ID for santhosh.r@nutanix.com.
+2024-10-03 13:43:12,638 - INFO - User ID for santhosh.r@nutanix.com is 5714bdec-5684-43ed-a7b3-b205fb0c507b.
+2024-10-03 13:43:12,639 - INFO - Fetching teams for user santhosh.r@nutanix.com.
+2024-10-03 13:43:13,163 - INFO - User santhosh.r@nutanix.com does not belong to any teams.
+2024-10-03 13:43:13,163 - INFO - No teams found for user santhosh.r@nutanix.com. Skipping deletion from teams.
+2024-10-03 13:43:13,163 - INFO - Fetching schedules for user santhosh.r@nutanix.com.
+2024-10-03 13:43:13,921 - INFO - User santhosh.r@nutanix.com belongs to the following schedules: CDP-DR Tier1
+2024-10-03 13:43:13,922 - INFO - Removing user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b from schedule ID 78067b81-7c46-4b94-a447-c6c03361c43c.
+2024-10-03 13:43:14,413 - ERROR - Error removing user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b from schedule ID 78067b81-7c46-4b94-a447-c6c03361c43c: 404, {"message":"No handler found","took":0.001,"requestId":"8094bca3-3310-41d6-b205-98f295c760f6"}
+2024-10-03 13:43:14,413 - INFO - Changing role for user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b to Stakeholder.
+2024-10-03 13:43:15,213 - ERROR - Error changing role for user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b: 428, {"message":"User cannot be modified. Please remove it from schedules: [CDP-DR Tier1]","took":0.313,"requestId":"6ac70e0d-8ebd-430d-9b4a-ddf803975fe1"}
+2024-10-03 13:53:28,630 - INFO - Processing user santhosh.r@nutanix.com.
+2024-10-03 13:53:28,630 - INFO - Fetching user ID for santhosh.r@nutanix.com.
+2024-10-03 13:53:29,324 - INFO - User ID for santhosh.r@nutanix.com is 5714bdec-5684-43ed-a7b3-b205fb0c507b.
+2024-10-03 13:53:29,325 - INFO - Fetching teams for user santhosh.r@nutanix.com.
+2024-10-03 13:53:29,828 - INFO - User santhosh.r@nutanix.com does not belong to any teams.
+2024-10-03 13:53:29,828 - INFO - No teams found for user santhosh.r@nutanix.com. Skipping deletion from teams.
+2024-10-03 13:54:04,952 - INFO - Processing user santhosh.r@nutanix.com.
+2024-10-03 13:54:04,952 - INFO - Fetching user ID for santhosh.r@nutanix.com.
+2024-10-03 13:54:05,443 - INFO - User ID for santhosh.r@nutanix.com is 5714bdec-5684-43ed-a7b3-b205fb0c507b.
+2024-10-03 13:54:05,443 - INFO - Fetching teams for user santhosh.r@nutanix.com.
+2024-10-03 13:54:05,951 - INFO - User santhosh.r@nutanix.com does not belong to any teams.
+2024-10-03 13:54:05,951 - INFO - No teams found for user santhosh.r@nutanix.com. Skipping deletion from teams.
+2024-10-03 13:54:05,952 - INFO - Fetching schedules for user santhosh.r@nutanix.com.
+2024-10-03 13:54:06,760 - INFO - User santhosh.r@nutanix.com belongs to the following schedules: CDP-DR Tier1
+2024-10-03 13:54:06,760 - INFO - Removing user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b from schedule ID 78067b81-7c46-4b94-a447-c6c03361c43c.
+2024-10-03 13:54:07,237 - ERROR - Error removing user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b from schedule ID 78067b81-7c46-4b94-a447-c6c03361c43c: 404, {"message":"No handler found","took":0.001,"requestId":"a66624d9-6a67-484b-993f-376aa0426347"}
+2024-10-03 13:54:07,238 - INFO - Changing role for user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b to Stakeholder.
+2024-10-03 13:54:08,050 - ERROR - Error changing role for user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b: 428, {"message":"User cannot be modified. Please remove it from schedules: [CDP-DR Tier1]","took":0.306,"requestId":"997b6378-269a-4785-90b4-3160375ab267"}
+2024-10-03 14:07:42,634 - INFO - Processing user santhosh.r@nutanix.com.
+2024-10-03 14:07:42,634 - INFO - Fetching user ID for santhosh.r@nutanix.com.
+2024-10-03 14:07:43,325 - INFO - User ID for santhosh.r@nutanix.com is 5714bdec-5684-43ed-a7b3-b205fb0c507b.
+2024-10-03 14:07:43,325 - INFO - Fetching teams for user santhosh.r@nutanix.com.
+2024-10-03 14:07:43,855 - INFO - User santhosh.r@nutanix.com does not belong to any teams.
+2024-10-03 14:07:43,856 - INFO - No teams found for user santhosh.r@nutanix.com. Skipping deletion from teams.
+2024-10-03 14:07:43,856 - INFO - Fetching schedules for user santhosh.r@nutanix.com.
+2024-10-03 14:07:45,108 - ERROR - Error fetching rotations for schedule ID 78067b81-7c46-4b94-a447-c6c03361c43c: 404, {"message":"No handler found","took":0.001,"requestId":"7ba7f172-aa5d-4245-9ce5-24e03a437660"}
+2024-10-03 14:07:45,108 - INFO - User santhosh.r@nutanix.com belongs to the following rotations: None
+2024-10-03 14:07:45,109 - INFO - No schedules/rotations found for user santhosh.r@nutanix.com. Skipping deletion from schedules/rotations.
+2024-10-03 14:07:45,109 - INFO - Changing role for user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b to Stakeholder.
+2024-10-03 14:07:46,690 - ERROR - Error changing role for user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b: 428, {"message":"User cannot be modified. Please remove it from schedules: [CDP-DR Tier1]","took":1.094,"requestId":"50c2e6c6-5cde-4666-a6fa-b2bc05feff91"}
+2024-10-03 14:08:55,302 - INFO - Processing user santhosh.r@nutanix.com.
+2024-10-03 14:08:55,302 - INFO - Fetching user ID for santhosh.r@nutanix.com.
+2024-10-03 14:08:55,802 - INFO - User ID for santhosh.r@nutanix.com is 5714bdec-5684-43ed-a7b3-b205fb0c507b.
+2024-10-03 14:08:55,803 - INFO - Fetching teams for user santhosh.r@nutanix.com.
+2024-10-03 14:08:56,306 - INFO - User santhosh.r@nutanix.com does not belong to any teams.
+2024-10-03 14:08:56,307 - INFO - No teams found for user santhosh.r@nutanix.com. Skipping deletion from teams.
+2024-10-03 14:08:56,307 - INFO - Fetching schedules for user santhosh.r@nutanix.com.
+2024-10-03 14:08:57,585 - ERROR - Error fetching rotations for schedule ID 78067b81-7c46-4b94-a447-c6c03361c43c: 404, {"message":"No handler found","took":0.001,"requestId":"d32a5ee6-a79a-40da-b3fe-5a657ae64b46"}
+2024-10-03 14:08:57,585 - INFO - User santhosh.r@nutanix.com belongs to the following rotations: None
+2024-10-03 14:08:57,586 - INFO - No schedules/rotations found for user santhosh.r@nutanix.com. Skipping deletion from schedules/rotations.
+2024-10-03 14:08:57,586 - INFO - Changing role for user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b to Stakeholder.
+2024-10-03 14:08:58,377 - ERROR - Error changing role for user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b: 428, {"message":"User cannot be modified. Please remove it from schedules: [CDP-DR Tier1]","took":0.309,"requestId":"bc521024-25b6-45cb-a655-0fa0444492b2"}
+2024-10-03 14:11:21,680 - INFO - Processing user santhosh.r@nutanix.com.
+2024-10-03 14:11:21,680 - INFO - Fetching user ID for santhosh.r@nutanix.com.
+2024-10-03 14:11:22,401 - INFO - User ID for santhosh.r@nutanix.com is 5714bdec-5684-43ed-a7b3-b205fb0c507b.
+2024-10-03 14:11:22,402 - INFO - Fetching teams for user santhosh.r@nutanix.com.
+2024-10-03 14:11:22,894 - INFO - User santhosh.r@nutanix.com does not belong to any teams.
+2024-10-03 14:11:22,894 - INFO - No teams found for user santhosh.r@nutanix.com. Skipping deletion from teams.
+2024-10-03 14:11:22,894 - INFO - Fetching schedules for user santhosh.r@nutanix.com.
+2024-10-03 14:11:24,142 - ERROR - Error fetching rotations for schedule ID 78067b81-7c46-4b94-a447-c6c03361c43c: 404, {"message":"No handler found","took":0.001,"requestId":"6e5ce6b2-9339-490f-994e-181e856769a8"}
+2024-10-03 14:11:24,143 - INFO - User santhosh.r@nutanix.com belongs to the following rotations: None
+2024-10-03 14:11:24,143 - INFO - No schedules/rotations found for user santhosh.r@nutanix.com. Skipping deletion from schedules/rotations.
+2024-10-03 14:11:24,143 - INFO - Changing role for user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b to Stakeholder.
+2024-10-03 14:11:25,006 - ERROR - Error changing role for user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b: 428, {"message":"User cannot be modified. Please remove it from schedules: [CDP-DR Tier1]","took":0.387,"requestId":"61ad1a13-0f5f-4e34-a556-c5fd378383d3"}
+2024-10-03 14:12:08,071 - INFO - Processing user santhosh.r@nutanix.com.
+2024-10-03 14:12:08,071 - INFO - Fetching user ID for santhosh.r@nutanix.com.
+2024-10-03 14:12:08,561 - INFO - User ID for santhosh.r@nutanix.com is 5714bdec-5684-43ed-a7b3-b205fb0c507b.
+2024-10-03 14:12:08,561 - INFO - Fetching teams for user santhosh.r@nutanix.com.
+2024-10-03 14:12:09,054 - INFO - User santhosh.r@nutanix.com does not belong to any teams.
+2024-10-03 14:12:09,054 - INFO - No teams found for user santhosh.r@nutanix.com. Skipping deletion from teams.
+2024-10-03 14:12:09,054 - INFO - Fetching schedules for user santhosh.r@nutanix.com.
+2024-10-03 14:12:20,492 - INFO - Processing user santhosh.r@nutanix.com.
+2024-10-03 14:12:20,492 - INFO - Fetching user ID for santhosh.r@nutanix.com.
+2024-10-03 14:12:20,998 - INFO - User ID for santhosh.r@nutanix.com is 5714bdec-5684-43ed-a7b3-b205fb0c507b.
+2024-10-03 14:12:20,998 - INFO - Fetching teams for user santhosh.r@nutanix.com.
+2024-10-03 14:12:21,486 - INFO - User santhosh.r@nutanix.com does not belong to any teams.
+2024-10-03 14:12:21,487 - INFO - No teams found for user santhosh.r@nutanix.com. Skipping deletion from teams.
+2024-10-03 14:12:21,487 - INFO - Fetching schedules for user santhosh.r@nutanix.com.
+2024-10-03 14:12:22,732 - ERROR - Error fetching rotations for schedule ID 78067b81-7c46-4b94-a447-c6c03361c43c: 404, {"message":"No handler found","took":0.001,"requestId":"9a3e224c-f599-4409-b5a0-94aecf5b7850"}
+2024-10-03 14:12:22,733 - INFO - User santhosh.r@nutanix.com belongs to the following rotations: None
+2024-10-03 14:12:22,733 - INFO - No schedules/rotations found for user santhosh.r@nutanix.com. Skipping deletion from schedules/rotations.
+2024-10-03 14:12:22,733 - INFO - Changing role for user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b to Stakeholder.
+2024-10-03 14:12:23,501 - ERROR - Error changing role for user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b: 428, {"message":"User cannot be modified. Please remove it from schedules: [CDP-DR Tier1]","took":0.289,"requestId":"3be5a8a1-1143-4032-a039-09d149fa5d9e"}
+2024-10-03 14:14:15,831 - INFO - Processing user santhosh.r@nutanix.com.
+2024-10-03 14:14:15,831 - INFO - Fetching user ID for santhosh.r@nutanix.com.
+2024-10-03 14:14:16,501 - INFO - User ID for santhosh.r@nutanix.com is 5714bdec-5684-43ed-a7b3-b205fb0c507b.
+2024-10-03 14:14:16,502 - INFO - Fetching teams for user santhosh.r@nutanix.com.
+2024-10-03 14:14:16,997 - INFO - User santhosh.r@nutanix.com does not belong to any teams.
+2024-10-03 14:14:16,997 - INFO - No teams found for user santhosh.r@nutanix.com. Skipping deletion from teams.
+2024-10-03 14:14:16,997 - INFO - Fetching schedules for user santhosh.r@nutanix.com.
+2024-10-03 14:14:17,775 - INFO - User santhosh.r@nutanix.com is member of following schedules: [{'id': '78067b81-7c46-4b94-a447-c6c03361c43c', 'name': 'CDP-DR Tier1', 'enabled': True}]
+2024-10-03 14:15:12,260 - INFO - Processing user santhosh.r@nutanix.com.
+2024-10-03 14:15:12,260 - INFO - Fetching user ID for santhosh.r@nutanix.com.
+2024-10-03 14:15:12,751 - INFO - User ID for santhosh.r@nutanix.com is 5714bdec-5684-43ed-a7b3-b205fb0c507b.
+2024-10-03 14:15:12,752 - INFO - Fetching teams for user santhosh.r@nutanix.com.
+2024-10-03 14:15:13,293 - INFO - User santhosh.r@nutanix.com does not belong to any teams.
+2024-10-03 14:15:13,293 - INFO - No teams found for user santhosh.r@nutanix.com. Skipping deletion from teams.
+2024-10-03 14:15:13,293 - INFO - Fetching schedules for user santhosh.r@nutanix.com.
+2024-10-03 14:15:14,167 - INFO - User santhosh.r@nutanix.com is member of following schedules: [{'id': '78067b81-7c46-4b94-a447-c6c03361c43c', 'name': 'CDP-DR Tier1', 'enabled': True}]
+2024-10-03 14:15:58,905 - INFO - Processing user santhosh.r@nutanix.com.
+2024-10-03 14:15:58,905 - INFO - Fetching user ID for santhosh.r@nutanix.com.
+2024-10-03 14:15:59,622 - INFO - User ID for santhosh.r@nutanix.com is 5714bdec-5684-43ed-a7b3-b205fb0c507b.
+2024-10-03 14:15:59,622 - INFO - Fetching teams for user santhosh.r@nutanix.com.
+2024-10-03 14:16:00,102 - INFO - User santhosh.r@nutanix.com does not belong to any teams.
+2024-10-03 14:16:00,102 - INFO - No teams found for user santhosh.r@nutanix.com. Skipping deletion from teams.
+2024-10-03 14:16:00,102 - INFO - Fetching schedules for user santhosh.r@nutanix.com.
+2024-10-03 14:16:00,868 - INFO - User santhosh.r@nutanix.com is member of following schedules: [{'id': '78067b81-7c46-4b94-a447-c6c03361c43c', 'name': 'CDP-DR Tier1', 'enabled': True}]
+2024-10-03 14:16:47,728 - INFO - Processing user santhosh.r@nutanix.com.
+2024-10-03 14:16:47,728 - INFO - Fetching user ID for santhosh.r@nutanix.com.
+2024-10-03 14:16:48,229 - INFO - User ID for santhosh.r@nutanix.com is 5714bdec-5684-43ed-a7b3-b205fb0c507b.
+2024-10-03 14:16:48,229 - INFO - Fetching teams for user santhosh.r@nutanix.com.
+2024-10-03 14:16:48,714 - INFO - User santhosh.r@nutanix.com does not belong to any teams.
+2024-10-03 14:16:48,715 - INFO - No teams found for user santhosh.r@nutanix.com. Skipping deletion from teams.
+2024-10-03 14:16:48,715 - INFO - Fetching schedules for user santhosh.r@nutanix.com.
+2024-10-03 14:16:49,467 - INFO - User santhosh.r@nutanix.com is member of following schedules: [{'id': '78067b81-7c46-4b94-a447-c6c03361c43c', 'name': 'CDP-DR Tier1', 'enabled': True}]
+2024-10-03 14:17:36,276 - INFO - Processing user santhosh.r@nutanix.com.
+2024-10-03 14:17:36,276 - INFO - Fetching user ID for santhosh.r@nutanix.com.
+2024-10-03 14:17:36,955 - INFO - User ID for santhosh.r@nutanix.com is 5714bdec-5684-43ed-a7b3-b205fb0c507b.
+2024-10-03 14:17:36,955 - INFO - Fetching teams for user santhosh.r@nutanix.com.
+2024-10-03 14:17:37,442 - INFO - User santhosh.r@nutanix.com does not belong to any teams.
+2024-10-03 14:17:37,442 - INFO - No teams found for user santhosh.r@nutanix.com. Skipping deletion from teams.
+2024-10-03 14:17:37,442 - INFO - Fetching schedules for user santhosh.r@nutanix.com.
+2024-10-03 14:17:38,217 - INFO - User santhosh.r@nutanix.com is member of following schedules: [{'id': '78067b81-7c46-4b94-a447-c6c03361c43c', 'name': 'CDP-DR Tier1', 'enabled': True}]
+2024-10-03 14:18:48,374 - INFO - Processing user santhosh.r@nutanix.com.
+2024-10-03 14:18:48,374 - INFO - Fetching user ID for santhosh.r@nutanix.com.
+2024-10-03 14:18:48,874 - INFO - User ID for santhosh.r@nutanix.com is 5714bdec-5684-43ed-a7b3-b205fb0c507b.
+2024-10-03 14:18:48,874 - INFO - Fetching teams for user santhosh.r@nutanix.com.
+2024-10-03 14:18:49,360 - INFO - User santhosh.r@nutanix.com does not belong to any teams.
+2024-10-03 14:18:49,361 - INFO - No teams found for user santhosh.r@nutanix.com. Skipping deletion from teams.
+2024-10-03 14:18:49,361 - INFO - Fetching schedules for user santhosh.r@nutanix.com.
+2024-10-03 14:18:50,222 - INFO - User santhosh.r@nutanix.com is member of following schedules: [{'id': '78067b81-7c46-4b94-a447-c6c03361c43c', 'name': 'CDP-DR Tier1', 'enabled': True}]
+2024-10-03 14:22:04,881 - INFO - Processing user santhosh.r@nutanix.com.
+2024-10-03 14:22:04,881 - INFO - Fetching user ID for santhosh.r@nutanix.com.
+2024-10-03 14:22:05,571 - INFO - User ID for santhosh.r@nutanix.com is 5714bdec-5684-43ed-a7b3-b205fb0c507b.
+2024-10-03 14:22:05,572 - INFO - Fetching teams for user santhosh.r@nutanix.com.
+2024-10-03 14:22:06,082 - INFO - User santhosh.r@nutanix.com does not belong to any teams.
+2024-10-03 14:22:06,083 - INFO - No teams found for user santhosh.r@nutanix.com. Skipping deletion from teams.
+2024-10-03 14:22:06,083 - INFO - Fetching schedules for user santhosh.r@nutanix.com.
+2024-10-03 14:22:06,871 - INFO - User santhosh.r@nutanix.com is member of following schedules: [{'id': '78067b81-7c46-4b94-a447-c6c03361c43c', 'name': 'CDP-DR Tier1', 'enabled': True}]
+2024-10-03 14:24:23,483 - INFO - Processing user santhosh.r@nutanix.com.
+2024-10-03 14:24:23,483 - INFO - Fetching user ID for santhosh.r@nutanix.com.
+2024-10-03 14:24:24,203 - INFO - User ID for santhosh.r@nutanix.com is 5714bdec-5684-43ed-a7b3-b205fb0c507b.
+2024-10-03 14:24:24,203 - INFO - Fetching teams for user santhosh.r@nutanix.com.
+2024-10-03 14:24:24,685 - INFO - User santhosh.r@nutanix.com does not belong to any teams.
+2024-10-03 14:24:24,686 - INFO - No teams found for user santhosh.r@nutanix.com. Skipping deletion from teams.
+2024-10-03 14:24:24,686 - INFO - Fetching schedules for user santhosh.r@nutanix.com.
+2024-10-03 14:24:25,470 - INFO - User santhosh.r@nutanix.com is member of following schedules: [{'id': '78067b81-7c46-4b94-a447-c6c03361c43c', 'name': 'CDP-DR Tier1', 'enabled': True}]
+2024-10-03 14:24:42,436 - INFO - Processing user santhosh.r@nutanix.com.
+2024-10-03 14:24:42,436 - INFO - Fetching user ID for santhosh.r@nutanix.com.
+2024-10-03 14:24:42,961 - INFO - User ID for santhosh.r@nutanix.com is 5714bdec-5684-43ed-a7b3-b205fb0c507b.
+2024-10-03 14:24:42,962 - INFO - Fetching teams for user santhosh.r@nutanix.com.
+2024-10-03 14:24:43,434 - INFO - User santhosh.r@nutanix.com does not belong to any teams.
+2024-10-03 14:24:43,435 - INFO - No teams found for user santhosh.r@nutanix.com. Skipping deletion from teams.
+2024-10-03 14:24:43,435 - INFO - Fetching schedules for user santhosh.r@nutanix.com.
+2024-10-03 14:24:44,214 - INFO - User santhosh.r@nutanix.com is member of following schedules: [{'id': '78067b81-7c46-4b94-a447-c6c03361c43c', 'name': 'CDP-DR Tier1', 'enabled': True}]
+2024-10-03 16:49:18,597 - INFO - Processing user santhosh.r@nutanix.com.
+2024-10-03 16:49:18,598 - INFO - Fetching user ID for santhosh.r@nutanix.com.
+2024-10-03 16:49:18,893 - INFO - User ID for santhosh.r@nutanix.com is 5714bdec-5684-43ed-a7b3-b205fb0c507b.
+2024-10-03 16:49:18,894 - INFO - Fetching teams for user santhosh.r@nutanix.com.
+2024-10-03 16:49:19,208 - INFO - User santhosh.r@nutanix.com does not belong to any teams.
+2024-10-03 16:49:19,209 - INFO - No teams found for user santhosh.r@nutanix.com. Skipping deletion from teams.
+2024-10-03 16:49:19,209 - INFO - Fetching schedules for user santhosh.r@nutanix.com.
+2024-10-03 16:49:20,202 - ERROR - Error fetching rotations for schedule ID 78067b81-7c46-4b94-a447-c6c03361c43c: 404, {"message":"No handler found","took":0.001,"requestId":"96aba4fd-6531-45dd-8a28-eaf2674d5a70"}
+2024-10-03 16:49:20,203 - INFO - User santhosh.r@nutanix.com belongs to the following rotations: None
+2024-10-03 16:49:20,203 - INFO - No schedules/rotations found for user santhosh.r@nutanix.com. Skipping deletion from schedules/rotations.
+2024-10-03 16:49:20,203 - INFO - Changing role for user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b to Stakeholder.
+2024-10-03 16:49:22,124 - ERROR - Error changing role for user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b: 428, {"message":"User cannot be modified. Please remove it from schedules: [CDP-DR Tier1]","took":1.671,"requestId":"d88b45b8-484b-45e2-82d1-cd6e9cb0cbd7"}
+2024-10-03 16:53:34,685 - INFO - Processing user santhosh.r@nutanix.com.
+2024-10-03 16:53:34,686 - INFO - Fetching user ID for santhosh.r@nutanix.com.
+2024-10-03 16:53:34,952 - INFO - User ID for santhosh.r@nutanix.com is 5714bdec-5684-43ed-a7b3-b205fb0c507b.
+2024-10-03 16:53:34,953 - INFO - Fetching teams for user santhosh.r@nutanix.com.
+2024-10-03 16:53:35,209 - INFO - User santhosh.r@nutanix.com does not belong to any teams.
+2024-10-03 16:53:35,210 - INFO - No teams found for user santhosh.r@nutanix.com. Skipping deletion from teams.
+2024-10-03 16:54:30,850 - INFO - Processing user santhosh.r@nutanix.com.
+2024-10-03 16:54:30,850 - INFO - Fetching user ID for santhosh.r@nutanix.com.
+2024-10-03 16:54:31,127 - INFO - User ID for santhosh.r@nutanix.com is 5714bdec-5684-43ed-a7b3-b205fb0c507b.
+2024-10-03 16:54:31,128 - INFO - Fetching teams for user santhosh.r@nutanix.com.
+2024-10-03 16:54:31,369 - INFO - User santhosh.r@nutanix.com does not belong to any teams.
+2024-10-03 16:54:31,369 - INFO - No teams found for user santhosh.r@nutanix.com. Skipping deletion from teams.
+2024-10-03 16:54:31,369 - INFO - Fetching schedules for user santhosh.r@nutanix.com.
+2024-10-03 16:54:31,935 - INFO - User santhosh.r@nutanix.com belongs to the following schedules: CDP-DR Tier1
+2024-10-03 16:54:31,935 - INFO - Removing user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b from schedule ID 78067b81-7c46-4b94-a447-c6c03361c43c.
+2024-10-03 16:54:32,175 - ERROR - Error removing user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b from schedule ID 78067b81-7c46-4b94-a447-c6c03361c43c: 404, {"message":"No handler found","took":0.0,"requestId":"e7213c48-559d-40b3-91b0-6a44828300cc"}
+2024-10-03 16:54:32,176 - INFO - Changing role for user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b to Stakeholder.
+2024-10-03 16:54:32,685 - ERROR - Error changing role for user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b: 428, {"message":"User cannot be modified. Please remove it from schedules: [CDP-DR Tier1]","took":0.274,"requestId":"9dd86eec-dd5d-41e7-a211-99f4af892fb8"}
+2024-10-03 17:01:05,693 - INFO - Processing user santhosh.r@nutanix.com.
+2024-10-03 17:01:05,693 - INFO - Fetching user ID for santhosh.r@nutanix.com.
+2024-10-03 17:01:06,312 - INFO - User ID for santhosh.r@nutanix.com is 5714bdec-5684-43ed-a7b3-b205fb0c507b.
+2024-10-03 17:01:06,312 - INFO - Fetching teams for user santhosh.r@nutanix.com.
+2024-10-03 17:01:06,806 - INFO - User santhosh.r@nutanix.com does not belong to any teams.
+2024-10-03 17:01:06,807 - INFO - No teams found for user santhosh.r@nutanix.com. Skipping deletion from teams.
+2024-10-03 17:01:06,807 - INFO - Fetching schedules for user santhosh.r@nutanix.com.
+2024-10-03 17:01:07,914 - INFO - User santhosh.r@nutanix.com belongs to the following schedules: CDP-DR Tier1
+2024-10-03 17:01:07,914 - INFO - Removing user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b from schedule ID 78067b81-7c46-4b94-a447-c6c03361c43c.
+2024-10-03 17:01:08,287 - ERROR - Error removing user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b from schedule ID 78067b81-7c46-4b94-a447-c6c03361c43c: 404, {"message":"No handler found","took":0.0,"requestId":"2f2ffa73-7cc0-4060-ac08-fedd271446fc"}
+2024-10-03 17:01:08,287 - INFO - Changing role for user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b to Stakeholder.
+2024-10-03 17:01:08,907 - ERROR - Error changing role for user ID 5714bdec-5684-43ed-a7b3-b205fb0c507b: 428, {"message":"User cannot be modified. Please remove it from schedules: [CDP-DR Tier1]","took":0.333,"requestId":"f22821f4-325f-497c-a15a-79834ab3c69a"}
