@@ -121,20 +121,59 @@ def get_user_schedules(user):
         return None
 
 
-def delete_user_from_schedule(user_id, schedule_id):
-    url = f"https://api.opsgenie.com/v2/schedule/{schedule_id}"
-    logging.info(f"Removing user ID {user_id} from schedule ID {schedule_id}.")
-    print(f"Removing user ID {user_id} from schedule ID {schedule_id}.")
-    response = requests.delete(url, headers=HEADERS)
+def get_rotations_with_user(schedule_id, user):
+    """Fetches rotations that include the specified user from a schedule."""
+    url = f"https://api.opsgenie.com/v2/schedules/{schedule_id}/rotations"
+    print(f"Fetching rotations for schedule {schedule_id}.")
+    response = requests.get(url, headers=HEADERS)
 
     if response.status_code == 200:
-        logging.info(f"Successfully removed user ID {user_id} from schedule ID {schedule_id}.")
-        print(f"Successfully removed user ID {user_id} from schedule ID {schedule_id}.")
+        rotations = response.json().get('data', [])
+        # Filter to get only the rotations that include the user
+        rotations_with_user = [rotation for rotation in rotations if any(p.get('username') == user for p in rotation.get('participants', []))]
+
+        if rotations_with_user:
+            print(f"Found {len(rotations_with_user)} rotations with user {user} in schedule {schedule_id}.")
+            return rotations_with_user
+        else:
+            print(f"No rotations found with user {user} in schedule {schedule_id}.")
+            return []
     else:
-        logging.error(
-            f"Error removing user ID {user_id} from schedule ID {schedule_id}: {response.status_code}, {response.text}")
-        print(
-            f"Error removing user ID {user_id} from schedule ID {schedule_id}: {response.status_code}, {response.text}")
+        print(f"Error fetching rotations for schedule {schedule_id}: {response.status_code}, {response.text}")
+        return []
+
+
+def update_schedule_rotation_without_user(schedule_id, rotation_id, user):
+    """Updates the rotation to remove the specified user."""
+    url = f"https://api.opsgenie.com/v2/schedules/{schedule_id}/rotations/{rotation_id}?scheduleIdentifierType=id"
+    print(f"Updating rotation {rotation_id} in schedule {schedule_id} to remove user {user}.")
+    logging.info(f"Updating rotation {rotation_id} in schedule {schedule_id} to remove user {user}.")
+
+    # Fetch the current rotation details
+    response = requests.get(url, headers=HEADERS)
+
+    if response.status_code == 200:
+        rotation = response.json().get('data', {})
+        participants = rotation.get('participants', [])
+        print(f"PARTICIPANTS:{participants}")
+        logging.info(f"Rotation PARTICIPANTS before change:{participants}")
+
+        # Filter out the user from the participants
+        updated_participants = [p for p in participants if p.get('username') != user]
+        print(f"UPDATED PARTICIPANTS: {updated_participants}")
+        logging.info(f"Rotation PARTICIPANTS after removing user:{participants}")
+
+        # Patch the rotation with updated participants
+        payload = {"participants": updated_participants}
+        # patch_response = requests.patch(url, headers=HEADERS, json=payload)
+
+        # if patch_response.status_code == 200:
+        #     print(f"Successfully removed user {user} from rotation {rotation_id} in schedule {schedule_id}.")
+        # else:
+        #     print(
+        #         f"Error updating rotation {rotation_id} in schedule {schedule_id}: {patch_response.status_code}, {patch_response.text}")
+    else:
+        print(f"Error fetching rotation {rotation_id}: {response.status_code}, {response.text}")
 
 
 def change_user_role(user_list, new_role):
@@ -167,7 +206,11 @@ def change_user_role(user_list, new_role):
             print(f"No schedules found for user {user}. Skipping deletion from schedules.")
         else:
             for schedule in user_schedules:
-                delete_user_from_schedule(user_id, schedule['id'])
+                rotations_with_user = get_rotations_with_user(schedule['id'], user)
+                for rotation in rotations_with_user:
+                    # Patch the rotation to remove the user
+                    print(schedule['id'], rotation['id'], user)
+                    update_schedule_rotation_without_user(schedule['id'], rotation['id'], user)
 
         # URL for updating user role
         url = f"https://api.opsgenie.com/v2/users/{user_id}"
